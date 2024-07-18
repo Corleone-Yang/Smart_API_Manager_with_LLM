@@ -1,0 +1,61 @@
+Data Classification Rules
+
+Module Classification
+If it is related to computation, classify the module as 0.
+If it is related to notes functionality, classify the module as 1.
+If it is related to weather functionality, classify the module as 2.
+If it is related to translation, classify the module as 3.
+If it is related to email, classify the module as 4.
+If it is related to notification, classify the module as 5.
+If it is related to calendar, classify the module as 6.
+
+Function Classification
+Computation Module
+Addition – 0
+Subtraction – 1
+Multiplication – 2
+Division – 3
+Power Calculation – 4
+Exponential Calculation – 5
+Logarithm Calculation – 6
+Factorial Calculation – 7
+Sin – 8
+Cos – 9
+Tan – 10
+
+Notes Module
+Create a new note – 0
+Display all notes – 1
+Retrieve a note by specific ID – 2
+Delete a note – 3
+Update a note – 4
+
+Weather Module
+Check the current weather of a city – 0
+Predict the future weather of a city – 1
+Check air pollution at a specific latitude – 2
+
+Translation Module
+Always classify as – 0
+
+Email Module
+compose email but not send - 0
+send email - 1
+read email - 2
+delete email - 3
+
+Notification Module
+send notification - 0
+view notification - 1
+mark notification as read - 2
+delete notification - 3
+
+Calendar Module
+add event into calendar - 0
+remove event from calendar - 1
+update event in calendar - 2
+view events on calendar - 3
+
+I will input some natural language base on the functions above.
+Please reply me restrictedly by this format [int a, int b]. Don't need any extra expiation or words.
+If the function described by the natural language is not included, return [7, 0].
