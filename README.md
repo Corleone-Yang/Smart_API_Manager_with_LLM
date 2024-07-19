@@ -19,6 +19,7 @@ Note: All the APIs are samples. In the app, we only use their routes and have no
 
 ## 4. Sample
 ### Input:
-![Screenshot 2024-07-18 at 20 05 35](https://github.com/user-attachments/assets/451395e9-6dc9-4bfe-93f4-627009e4aed9)
+![Screenshot 2024-07-18 at 20 06 48](https://github.com/user-attachments/assets/5093a713-0dc9-4aa8-8aaa-e6e7021bd5d7)
+
 ### Output:
 ![Screenshot 2024-07-18 at 20 06 09](https://github.com/user-attachments/assets/3d94af0a-c102-4fc0-831c-22d7f1d45bcf)
