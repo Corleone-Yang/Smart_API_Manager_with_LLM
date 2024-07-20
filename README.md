@@ -33,5 +33,6 @@ python run model.py
 By this way, you can test the inference classification performance of different models in the ***Smart API Management System***.
 
 Here is the test samples for llama3-70B:
+
 ![llama3-70B-1](https://github.com/user-attachments/assets/f94b4eb6-8883-49f6-b5f1-3c0618371545)
 ![llama3-70B-2](https://github.com/user-attachments/assets/cf01e2f6-7205-41f1-b302-ff91c032cdbb)
