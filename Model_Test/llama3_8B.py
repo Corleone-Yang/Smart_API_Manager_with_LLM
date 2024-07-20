@@ -15,7 +15,7 @@ with open('data/prompt.txt') as f:
 # Create Huggingface Inference Client
 client = InferenceClient(
     model="meta-llama/Meta-Llama-3-8B-Instruct",
-    token="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"
+    token="Your_huggingface_API_Token"
 )
 
 # Initialize mismatch counter
