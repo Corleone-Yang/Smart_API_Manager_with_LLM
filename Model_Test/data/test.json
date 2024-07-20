@@ -1,0 +1,4666 @@
+[
+  {
+    "query": "Can you calculate the sum of 12345 and 67890 for me?",
+    "classification": [0, 0]
+  },
+  {
+    "query": "I need to jot down a quick note about the meeting tomorrow.",
+    "classification": [1, 0]
+  },
+  {
+    "query": "What is the weather forecast for the next week in Los Angeles?",
+    "classification": [2, 1]
+  },
+  {
+    "query": "Could you translate the following paragraph into Spanish for me?",
+    "classification": [3, 0]
+  },
+  {
+    "query": "Compose an email draft to John regarding the project update, but don't send it yet.",
+    "classification": [4, 0]
+  },
+  {
+    "query": "Show me all unread notifications I received this morning.",
+    "classification": [5, 1]
+  },
+  {
+    "query": "Add the annual review meeting to my calendar for next Monday.",
+    "classification": [6, 0]
+  },
+  {
+    "query": "What do I get if I multiply 123 by 456?",
+    "classification": [0, 2]
+  },
+  {
+    "query": "Please remove the dentist appointment from my calendar scheduled for next Friday.",
+    "classification": [6, 1]
+  },
+  {
+    "query": "Retrieve the note titled 'Shopping List' from my notes.",
+    "classification": [1, 2]
+  },
+  {
+    "query": "Can you give me the 7-day weather forecast for Paris?",
+    "classification": [2, 1]
+  },
+  {
+    "query": "Compute the result of raising 10 to the power of 6.",
+    "classification": [0, 4]
+  },
+  {
+    "query": "Check the air quality index for the coordinates 34.0522, -118.2437.",
+    "classification": [2, 2]
+  },
+  {
+    "query": "Update my note titled 'To-Do List' with the new tasks for the week.",
+    "classification": [1, 4]
+  },
+  {
+    "query": "Send a notification to all users about the scheduled system maintenance.",
+    "classification": [5, 0]
+  },
+  {
+    "query": "List all the events on my calendar for the upcoming month.",
+    "classification": [6, 3]
+  },
+  {
+    "query": "Permanently delete the note named 'Old Ideas'.",
+    "classification": [1, 3]
+  },
+  {
+    "query": "Calculate the factorial of 10 for my math homework.",
+    "classification": [0, 7]
+  },
+  {
+    "query": "Send the prepared email draft to Sarah regarding the team meeting.",
+    "classification": [4, 1]
+  },
+  {
+    "query": "Show me the last 10 emails received from my boss.",
+    "classification": [4, 2]
+  },
+  {
+    "query": "Calculate the total when you add 98765 and 43210 together, please.",
+    "classification": [0, 0]
+  },
+  {
+    "query": "Can you help me create a quick note for tomorrow's team meeting?",
+    "classification": [1, 0]
+  },
+  {
+    "query": "What's the weather prediction for the upcoming week in New York?",
+    "classification": [2, 1]
+  },
+  {
+    "query": "Translate the following sentences into French, would you?",
+    "classification": [3, 0]
+  },
+  {
+    "query": "Prepare an email draft to the manager regarding the monthly report but hold off on sending it.",
+    "classification": [4, 0]
+  },
+  {
+    "query": "Show me the notifications I haven't read yet from this afternoon.",
+    "classification": [5, 1]
+  },
+  {
+    "query": "Schedule the project kickoff meeting in my calendar for next Wednesday.",
+    "classification": [6, 0]
+  },
+  { "query": "How much is 789 multiplied by 321?", "classification": [0, 2] },
+  {
+    "query": "Can you take out the dentist appointment from next Friday's calendar?",
+    "classification": [6, 1]
+  },
+  {
+    "query": "Find the note labeled 'Work Tasks' in my notes.",
+    "classification": [1, 2]
+  },
+  {
+    "query": "What's the week-long weather forecast for London?",
+    "classification": [2, 1]
+  },
+  {
+    "query": "Calculate the power of 5 raised to 8.",
+    "classification": [0, 4]
+  },
+  {
+    "query": "Check the air quality at coordinates 40.7128, -74.0060.",
+    "classification": [2, 2]
+  },
+  {
+    "query": "Modify my 'Weekend Plans' note with the latest details.",
+    "classification": [1, 4]
+  },
+  {
+    "query": "Notify all users about the upcoming maintenance window.",
+    "classification": [5, 0]
+  },
+  {
+    "query": "Display all events in my calendar for the next two weeks.",
+    "classification": [6, 3]
+  },
+  {
+    "query": "Delete the 'Old Notes' permanently from my collection.",
+    "classification": [1, 3]
+  },
+  {
+    "query": "Find the factorial of 12 for my assignment.",
+    "classification": [0, 7]
+  },
+  {
+    "query": "Send the drafted email to Emily about the marketing strategy.",
+    "classification": [4, 1]
+  },
+  {
+    "query": "Display the last 5 emails I received from my supervisor.",
+    "classification": [4, 2]
+  },
+  {
+    "query": "Perform the addition of 56789 and 12345 for me.",
+    "classification": [0, 0]
+  },
+  {
+    "query": "I need to make a quick note about the call I had today.",
+    "classification": [1, 0]
+  },
+  {
+    "query": "What will the weather be like next week in San Francisco?",
+    "classification": [2, 1]
+  },
+  {
+    "query": "Can you convert this paragraph into German for me?",
+    "classification": [3, 0]
+  },
+  {
+    "query": "Draft an email to the team about the upcoming deadlines but don't send it yet.",
+    "classification": [4, 0]
+  },
+  {
+    "query": "Show me all the unread notifications I received yesterday.",
+    "classification": [5, 1]
+  },
+  {
+    "query": "Add a reminder for the staff meeting to my calendar for next Tuesday.",
+    "classification": [6, 0]
+  },
+  {
+    "query": "What is the result if you multiply 234 by 567?",
+    "classification": [0, 2]
+  },
+  {
+    "query": "Remove the doctor's appointment from my calendar for next Thursday.",
+    "classification": [6, 1]
+  },
+  {
+    "query": "Retrieve the note called 'Ideas' from my notes.",
+    "classification": [1, 2]
+  },
+  {
+    "query": "What's the 7-day weather forecast for Tokyo?",
+    "classification": [2, 1]
+  },
+  { "query": "Calculate 2 to the power of 10.", "classification": [0, 4] },
+  {
+    "query": "Check the air quality at 48.8566, 2.3522.",
+    "classification": [2, 2]
+  },
+  {
+    "query": "Update my note titled 'To-Do' with the new list.",
+    "classification": [1, 4]
+  },
+  {
+    "query": "Send a notification to all staff about the meeting.",
+    "classification": [5, 0]
+  },
+  {
+    "query": "List all upcoming events in my calendar for the next three weeks.",
+    "classification": [6, 3]
+  },
+  {
+    "query": "Delete the 'Unused Notes' permanently.",
+    "classification": [1, 3]
+  },
+  {
+    "query": "Calculate the factorial of 15 for the math project.",
+    "classification": [0, 7]
+  },
+  {
+    "query": "Send the email draft to the finance team regarding the budget.",
+    "classification": [4, 1]
+  },
+  {
+    "query": "Show me the last 3 emails I got from the HR department.",
+    "classification": [4, 2]
+  },
+  {
+    "query": "Can you calculate the sum of 12345 and 67890 for me?",
+    "classification": [0, 0]
+  },
+  {
+    "query": "I need to jot down a quick note about the meeting tomorrow.",
+    "classification": [1, 0]
+  },
+  {
+    "query": "What is the weather forecast for the next week in Los Angeles?",
+    "classification": [2, 1]
+  },
+  {
+    "query": "Could you translate the following paragraph into Spanish for me?",
+    "classification": [3, 0]
+  },
+  {
+    "query": "Compose an email draft to John regarding the project update, but don't send it yet.",
+    "classification": [4, 0]
+  },
+  {
+    "query": "Show me all unread notifications I received this morning.",
+    "classification": [5, 1]
+  },
+  {
+    "query": "Add the annual review meeting to my calendar for next Monday.",
+    "classification": [6, 0]
+  },
+  {
+    "query": "What do I get if I multiply 123 by 456?",
+    "classification": [0, 2]
+  },
+  {
+    "query": "Please remove the dentist appointment from my calendar scheduled for next Friday.",
+    "classification": [6, 1]
+  },
+  {
+    "query": "Retrieve the note titled 'Shopping List' from my notes.",
+    "classification": [1, 2]
+  },
+  {
+    "query": "Can you give me the 7-day weather forecast for Paris?",
+    "classification": [2, 1]
+  },
+  {
+    "query": "Compute the result of raising 10 to the power of 6.",
+    "classification": [0, 4]
+  },
+  {
+    "query": "Check the air quality index for the coordinates 34.0522, -118.2437.",
+    "classification": [2, 2]
+  },
+  {
+    "query": "Update my note titled 'To-Do List' with the new tasks for the week.",
+    "classification": [1, 4]
+  },
+  {
+    "query": "Send a notification to all users about the scheduled system maintenance.",
+    "classification": [5, 0]
+  },
+  {
+    "query": "List all the events on my calendar for the upcoming month.",
+    "classification": [6, 3]
+  },
+  {
+    "query": "Permanently delete the note named 'Old Ideas'.",
+    "classification": [1, 3]
+  },
+  {
+    "query": "Calculate the factorial of 10 for my math homework.",
+    "classification": [0, 7]
+  },
+  {
+    "query": "Send the prepared email draft to Sarah regarding the team meeting.",
+    "classification": [4, 1]
+  },
+  {
+    "query": "Show me the last 10 emails received from my boss.",
+    "classification": [4, 2]
+  },
+  {
+    "query": "Calculate the total when you add 98765 and 43210 together, please.",
+    "classification": [0, 0]
+  },
+  {
+    "query": "Can you help me create a quick note for tomorrow's team meeting?",
+    "classification": [1, 0]
+  },
+  {
+    "query": "What's the weather prediction for the upcoming week in New York?",
+    "classification": [2, 1]
+  },
+  {
+    "query": "Translate the following sentences into French, would you?",
+    "classification": [3, 0]
+  },
+  {
+    "query": "Prepare an email draft to the manager regarding the monthly report but hold off on sending it.",
+    "classification": [4, 0]
+  },
+  {
+    "query": "Show me the notifications I haven't read yet from this afternoon.",
+    "classification": [5, 1]
+  },
+  {
+    "query": "Schedule the project kickoff meeting in my calendar for next Wednesday.",
+    "classification": [6, 0]
+  },
+  { "query": "How much is 789 multiplied by 321?", "classification": [0, 2] },
+  {
+    "query": "Can you take out the dentist appointment from next Friday's calendar?",
+    "classification": [6, 1]
+  },
+  {
+    "query": "Find the note labeled 'Work Tasks' in my notes.",
+    "classification": [1, 2]
+  },
+  {
+    "query": "What's the week-long weather forecast for London?",
+    "classification": [2, 1]
+  },
+  {
+    "query": "Calculate the power of 5 raised to 8.",
+    "classification": [0, 4]
+  },
+  {
+    "query": "Check the air quality at coordinates 40.7128, -74.0060.",
+    "classification": [2, 2]
+  },
+  {
+    "query": "Modify my 'Weekend Plans' note with the latest details.",
+    "classification": [1, 4]
+  },
+  {
+    "query": "Notify all users about the upcoming maintenance window.",
+    "classification": [5, 0]
+  },
+  {
+    "query": "Display all events in my calendar for the next two weeks.",
+    "classification": [6, 3]
+  },
+  {
+    "query": "Delete the 'Old Notes' permanently from my collection.",
+    "classification": [1, 3]
+  },
+  {
+    "query": "Find the factorial of 12 for my assignment.",
+    "classification": [0, 7]
+  },
+  {
+    "query": "Send the drafted email to Emily about the marketing strategy.",
+    "classification": [4, 1]
+  },
+  {
+    "query": "Display the last 5 emails I received from my supervisor.",
+    "classification": [4, 2]
+  },
+  {
+    "query": "Perform the addition of 56789 and 12345 for me.",
+    "classification": [0, 0]
+  },
+  {
+    "query": "I need to make a quick note about the call I had today.",
+    "classification": [1, 0]
+  },
+  {
+    "query": "What will the weather be like next week in San Francisco?",
+    "classification": [2, 1]
+  },
+  {
+    "query": "Can you convert this paragraph into German for me?",
+    "classification": [3, 0]
+  },
+  {
+    "query": "Draft an email to the team about the upcoming deadlines but don't send it yet.",
+    "classification": [4, 0]
+  },
+  {
+    "query": "Show me all the unread notifications I received yesterday.",
+    "classification": [5, 1]
+  },
+  {
+    "query": "Add a reminder for the staff meeting to my calendar for next Tuesday.",
+    "classification": [6, 0]
+  },
+  {
+    "query": "What is the result if you multiply 234 by 567?",
+    "classification": [0, 2]
+  },
+  {
+    "query": "Remove the doctor's appointment from my calendar for next Thursday.",
+    "classification": [6, 1]
+  },
+  {
+    "query": "Retrieve the note called 'Ideas' from my notes.",
+    "classification": [1, 2]
+  },
+  {
+    "query": "What's the 7-day weather forecast for Tokyo?",
+    "classification": [2, 1]
+  },
+  { "query": "Calculate 2 to the power of 10.", "classification": [0, 4] },
+  {
+    "query": "Check the air quality at 48.8566, 2.3522.",
+    "classification": [2, 2]
+  },
+  {
+    "query": "Update my note titled 'To-Do' with the new list.",
+    "classification": [1, 4]
+  },
+  {
+    "query": "Send a notification to all staff about the meeting.",
+    "classification": [5, 0]
+  },
+  {
+    "query": "List all upcoming events in my calendar for the next three weeks.",
+    "classification": [6, 3]
+  },
+  {
+    "query": "Delete the 'Unused Notes' permanently.",
+    "classification": [1, 3]
+  },
+  {
+    "query": "Calculate the factorial of 15 for the math project.",
+    "classification": [0, 7]
+  },
+  {
+    "query": "Send the email draft to the finance team regarding the budget.",
+    "classification": [4, 1]
+  },
+  {
+    "query": "Show me the last 3 emails I got from the HR department.",
+    "classification": [4, 2]
+  },
+  {
+    "query": "Can you calculate the sum of 12345 and 67890 for me?",
+    "classification": [0, 0]
+  },
+  {
+    "query": "I need to jot down a quick note about the meeting tomorrow.",
+    "classification": [1, 0]
+  },
+  {
+    "query": "What is the weather forecast for the next week in Los Angeles?",
+    "classification": [2, 1]
+  },
+  {
+    "query": "Could you translate the following paragraph into Spanish for me?",
+    "classification": [3, 0]
+  },
+  {
+    "query": "Compose an email draft to John regarding the project update, but don't send it yet.",
+    "classification": [4, 0]
+  },
+  {
+    "query": "Show me all unread notifications I received this morning.",
+    "classification": [5, 1]
+  },
+  {
+    "query": "Add the annual review meeting to my calendar for next Monday.",
+    "classification": [6, 0]
+  },
+  {
+    "query": "What do I get if I multiply 123 by 456?",
+    "classification": [0, 2]
+  },
+  {
+    "query": "Please remove the dentist appointment from my calendar scheduled for next Friday.",
+    "classification": [6, 1]
+  },
+  {
+    "query": "Retrieve the note titled 'Shopping List' from my notes.",
+    "classification": [1, 2]
+  },
+  {
+    "query": "Can you give me the 7-day weather forecast for Paris?",
+    "classification": [2, 1]
+  },
+  {
+    "query": "Compute the result of raising 10 to the power of 6.",
+    "classification": [0, 4]
+  },
+  {
+    "query": "Check the air quality index for the coordinates 34.0522, -118.2437.",
+    "classification": [2, 2]
+  },
+  {
+    "query": "Update my note titled 'To-Do List' with the new tasks for the week.",
+    "classification": [1, 4]
+  },
+  {
+    "query": "Send a notification to all users about the scheduled system maintenance.",
+    "classification": [5, 0]
+  },
+  {
+    "query": "List all the events on my calendar for the upcoming month.",
+    "classification": [6, 3]
+  },
+  {
+    "query": "Permanently delete the note named 'Old Ideas'.",
+    "classification": [1, 3]
+  },
+  {
+    "query": "Calculate the factorial of 10 for my math homework.",
+    "classification": [0, 7]
+  },
+  {
+    "query": "Send the prepared email draft to Sarah regarding the team meeting.",
+    "classification": [4, 1]
+  },
+  {
+    "query": "Show me the last 10 emails received from my boss.",
+    "classification": [4, 2]
+  },
+  {
+    "query": "Calculate the total when you add 98765 and 43210 together, please.",
+    "classification": [0, 0]
+  },
+  {
+    "query": "Can you help me create a quick note for tomorrow's team meeting?",
+    "classification": [1, 0]
+  },
+  {
+    "query": "What's the weather prediction for the upcoming week in New York?",
+    "classification": [2, 1]
+  },
+  {
+    "query": "Translate the following sentences into French, would you?",
+    "classification": [3, 0]
+  },
+  {
+    "query": "Prepare an email draft to the manager regarding the monthly report but hold off on sending it.",
+    "classification": [4, 0]
+  },
+  {
+    "query": "Show me the notifications I haven't read yet from this afternoon.",
+    "classification": [5, 1]
+  },
+  {
+    "query": "Schedule the project kickoff meeting in my calendar for next Wednesday.",
+    "classification": [6, 0]
+  },
+  { "query": "How much is 789 multiplied by 321?", "classification": [0, 2] },
+  {
+    "query": "Can you take out the dentist appointment from next Friday's calendar?",
+    "classification": [6, 1]
+  },
+  {
+    "query": "Find the note labeled 'Work Tasks' in my notes.",
+    "classification": [1, 2]
+  },
+  {
+    "query": "What's the week-long weather forecast for London?",
+    "classification": [2, 1]
+  },
+  {
+    "query": "Calculate the power of 5 raised to 8.",
+    "classification": [0, 4]
+  },
+  {
+    "query": "Check the air quality at coordinates 40.7128, -74.0060.",
+    "classification": [2, 2]
+  },
+  {
+    "query": "Modify my 'Weekend Plans' note with the latest details.",
+    "classification": [1, 4]
+  },
+  {
+    "query": "Notify all users about the upcoming maintenance window.",
+    "classification": [5, 0]
+  },
+  {
+    "query": "Display all events in my calendar for the next two weeks.",
+    "classification": [6, 3]
+  },
+  {
+    "query": "Delete the 'Old Notes' permanently from my collection.",
+    "classification": [1, 3]
+  },
+  {
+    "query": "Find the factorial of 12 for my assignment.",
+    "classification": [0, 7]
+  },
+  {
+    "query": "Send the drafted email to Emily about the marketing strategy.",
+    "classification": [4, 1]
+  },
+  {
+    "query": "Display the last 5 emails I received from my supervisor.",
+    "classification": [4, 2]
+  },
+  {
+    "query": "Perform the addition of 56789 and 12345 for me.",
+    "classification": [0, 0]
+  },
+  {
+    "query": "I need to make a quick note about the call I had today.",
+    "classification": [1, 0]
+  },
+  {
+    "query": "What will the weather be like next week in San Francisco?",
+    "classification": [2, 1]
+  },
+  {
+    "query": "Can you convert this paragraph into German for me?",
+    "classification": [3, 0]
+  },
+  {
+    "query": "Draft an email to the team about the upcoming deadlines but don't send it yet.",
+    "classification": [4, 0]
+  },
+  {
+    "query": "Show me all the unread notifications I received yesterday.",
+    "classification": [5, 1]
+  },
+  {
+    "query": "Add a reminder for the staff meeting to my calendar for next Tuesday.",
+    "classification": [6, 0]
+  },
+  {
+    "query": "What is the result if you multiply 234 by 567?",
+    "classification": [0, 2]
+  },
+  {
+    "query": "Remove the doctor's appointment from my calendar for next Thursday.",
+    "classification": [6, 1]
+  },
+  {
+    "query": "Retrieve the note called 'Ideas' from my notes.",
+    "classification": [1, 2]
+  },
+  {
+    "query": "What's the 7-day weather forecast for Tokyo?",
+    "classification": [2, 1]
+  },
+  { "query": "Calculate 2 to the power of 10.", "classification": [0, 4] },
+  {
+    "query": "Check the air quality at 48.8566, 2.3522.",
+    "classification": [2, 2]
+  },
+  {
+    "query": "Update my note titled 'To-Do' with the new list.",
+    "classification": [1, 4]
+  },
+  {
+    "query": "Send a notification to all staff about the meeting.",
+    "classification": [5, 0]
+  },
+  {
+    "query": "List all upcoming events in my calendar for the next three weeks.",
+    "classification": [6, 3]
+  },
+  {
+    "query": "Delete the 'Unused Notes' permanently.",
+    "classification": [1, 3]
+  },
+  {
+    "query": "Calculate the factorial of 15 for the math project.",
+    "classification": [0, 7]
+  },
+  {
+    "query": "Send the email draft to the finance team regarding the budget.",
+    "classification": [4, 1]
+  },
+  {
+    "query": "Show me the last 3 emails I got from the HR department.",
+    "classification": [4, 2]
+  },
+  {
+    "query": "Can you calculate the sum of 12345 and 67890 for me?",
+    "classification": [0, 0]
+  },
+  {
+    "query": "I need to jot down a quick note about the meeting tomorrow.",
+    "classification": [1, 0]
+  },
+  {
+    "query": "What is the weather forecast for the next week in Los Angeles?",
+    "classification": [2, 1]
+  },
+  {
+    "query": "Could you translate the following paragraph into Spanish for me?",
+    "classification": [3, 0]
+  },
+  {
+    "query": "Compose an email draft to John regarding the project update, but don't send it yet.",
+    "classification": [4, 0]
+  },
+  {
+    "query": "Show me all unread notifications I received this morning.",
+    "classification": [5, 1]
+  },
+  {
+    "query": "Add the annual review meeting to my calendar for next Monday.",
+    "classification": [6, 0]
+  },
+  {
+    "query": "What do I get if I multiply 123 by 456?",
+    "classification": [0, 2]
+  },
+  {
+    "query": "Please remove the dentist appointment from my calendar scheduled for next Friday.",
+    "classification": [6, 1]
+  },
+  {
+    "query": "Retrieve the note titled 'Shopping List' from my notes.",
+    "classification": [1, 2]
+  },
+  {
+    "query": "Can you give me the 7-day weather forecast for Paris?",
+    "classification": [2, 1]
+  },
+  {
+    "query": "Compute the result of raising 10 to the power of 6.",
+    "classification": [0, 4]
+  },
+  {
+    "query": "Check the air quality index for the coordinates 34.0522, -118.2437.",
+    "classification": [2, 2]
+  },
+  {
+    "query": "Update my note titled 'To-Do List' with the new tasks for the week.",
+    "classification": [1, 4]
+  },
+  {
+    "query": "Send a notification to all users about the scheduled system maintenance.",
+    "classification": [5, 0]
+  },
+  {
+    "query": "List all the events on my calendar for the upcoming month.",
+    "classification": [6, 3]
+  },
+  {
+    "query": "Permanently delete the note named 'Old Ideas'.",
+    "classification": [1, 3]
+  },
+  {
+    "query": "Calculate the factorial of 10 for my math homework.",
+    "classification": [0, 7]
+  },
+  {
+    "query": "Send the prepared email draft to Sarah regarding the team meeting.",
+    "classification": [4, 1]
+  },
+  {
+    "query": "Show me the last 10 emails received from my boss.",
+    "classification": [4, 2]
+  },
+  {
+    "query": "Calculate the total when you add 98765 and 43210 together, please.",
+    "classification": [0, 0]
+  },
+  {
+    "query": "Can you help me create a quick note for tomorrow's team meeting?",
+    "classification": [1, 0]
+  },
+  {
+    "query": "What's the weather prediction for the upcoming week in New York?",
+    "classification": [2, 1]
+  },
+  {
+    "query": "Translate the following sentences into French, would you?",
+    "classification": [3, 0]
+  },
+  {
+    "query": "Prepare an email draft to the manager regarding the monthly report but hold off on sending it.",
+    "classification": [4, 0]
+  },
+  {
+    "query": "Show me the notifications I haven't read yet from this afternoon.",
+    "classification": [5, 1]
+  },
+  {
+    "query": "Schedule the project kickoff meeting in my calendar for next Wednesday.",
+    "classification": [6, 0]
+  },
+  { "query": "How much is 789 multiplied by 321?", "classification": [0, 2] },
+  {
+    "query": "Can you take out the dentist appointment from next Friday's calendar?",
+    "classification": [6, 1]
+  },
+  {
+    "query": "Find the note labeled 'Work Tasks' in my notes.",
+    "classification": [1, 2]
+  },
+  {
+    "query": "What's the week-long weather forecast for London?",
+    "classification": [2, 1]
+  },
+  {
+    "query": "Calculate the power of 5 raised to 8.",
+    "classification": [0, 4]
+  },
+  {
+    "query": "Check the air quality at coordinates 40.7128, -74.0060.",
+    "classification": [2, 2]
+  },
+  {
+    "query": "Modify my 'Weekend Plans' note with the latest details.",
+    "classification": [1, 4]
+  },
+  {
+    "query": "Notify all users about the upcoming maintenance window.",
+    "classification": [5, 0]
+  },
+  {
+    "query": "Display all events in my calendar for the next two weeks.",
+    "classification": [6, 3]
+  },
+  {
+    "query": "Delete the 'Old Notes' permanently from my collection.",
+    "classification": [1, 3]
+  },
+  {
+    "query": "Find the factorial of 12 for my assignment.",
+    "classification": [0, 7]
+  },
+  {
+    "query": "Send the drafted email to Emily about the marketing strategy.",
+    "classification": [4, 1]
+  },
+  {
+    "query": "Display the last 5 emails I received from my supervisor.",
+    "classification": [4, 2]
+  },
+  {
+    "query": "Perform the addition of 56789 and 12345 for me.",
+    "classification": [0, 0]
+  },
+  {
+    "query": "I need to make a quick note about the call I had today.",
+    "classification": [1, 0]
+  },
+  {
+    "query": "What will the weather be like next week in San Francisco?",
+    "classification": [2, 1]
+  },
+  {
+    "query": "Can you convert this paragraph into German for me?",
+    "classification": [3, 0]
+  },
+  {
+    "query": "Draft an email to the team about the upcoming deadlines but don't send it yet.",
+    "classification": [4, 0]
+  },
+  {
+    "query": "Show me all the unread notifications I received yesterday.",
+    "classification": [5, 1]
+  },
+  {
+    "query": "Add a reminder for the staff meeting to my calendar for next Tuesday.",
+    "classification": [6, 0]
+  },
+  {
+    "query": "What is the result if you multiply 234 by 567?",
+    "classification": [0, 2]
+  },
+  {
+    "query": "Remove the doctor's appointment from my calendar for next Thursday.",
+    "classification": [6, 1]
+  },
+  {
+    "query": "Retrieve the note called 'Ideas' from my notes.",
+    "classification": [1, 2]
+  },
+  {
+    "query": "What's the 7-day weather forecast for Tokyo?",
+    "classification": [2, 1]
+  },
+  { "query": "Calculate 2 to the power of 10.", "classification": [0, 4] },
+  {
+    "query": "Check the air quality at 48.8566, 2.3522.",
+    "classification": [2, 2]
+  },
+  {
+    "query": "Update my note titled 'To-Do' with the new list.",
+    "classification": [1, 4]
+  },
+  {
+    "query": "Send a notification to all staff about the meeting.",
+    "classification": [5, 0]
+  },
+  {
+    "query": "List all upcoming events in my calendar for the next three weeks.",
+    "classification": [6, 3]
+  },
+  {
+    "query": "Delete the 'Unused Notes' permanently.",
+    "classification": [1, 3]
+  },
+  {
+    "query": "Calculate the factorial of 15 for the math project.",
+    "classification": [0, 7]
+  },
+  {
+    "query": "Send the email draft to the finance team regarding the budget.",
+    "classification": [4, 1]
+  },
+  {
+    "query": "Show me the last 3 emails I got from the HR department.",
+    "classification": [4, 2]
+  },
+  {
+    "query": "Can you calculate the sum of 12345 and 67890 for me?",
+    "classification": [0, 0]
+  },
+  {
+    "query": "I need to jot down a quick note about the meeting tomorrow.",
+    "classification": [1, 0]
+  },
+  {
+    "query": "What is the weather forecast for the next week in Los Angeles?",
+    "classification": [2, 1]
+  },
+  {
+    "query": "Could you translate the following paragraph into Spanish for me?",
+    "classification": [3, 0]
+  },
+  {
+    "query": "Compose an email draft to John regarding the project update, but don't send it yet.",
+    "classification": [4, 0]
+  },
+  {
+    "query": "Show me all unread notifications I received this morning.",
+    "classification": [5, 1]
+  },
+  {
+    "query": "Add the annual review meeting to my calendar for next Monday.",
+    "classification": [6, 0]
+  },
+  {
+    "query": "What do I get if I multiply 123 by 456?",
+    "classification": [0, 2]
+  },
+  {
+    "query": "Please remove the dentist appointment from my calendar scheduled for next Friday.",
+    "classification": [6, 1]
+  },
+  {
+    "query": "Retrieve the note titled 'Shopping List' from my notes.",
+    "classification": [1, 2]
+  },
+  {
+    "query": "Can you give me the 7-day weather forecast for Paris?",
+    "classification": [2, 1]
+  },
+  {
+    "query": "Compute the result of raising 10 to the power of 6.",
+    "classification": [0, 4]
+  },
+  {
+    "query": "Check the air quality index for the coordinates 34.0522, -118.2437.",
+    "classification": [2, 2]
+  },
+  {
+    "query": "Update my note titled 'To-Do List' with the new tasks for the week.",
+    "classification": [1, 4]
+  },
+  {
+    "query": "Send a notification to all users about the scheduled system maintenance.",
+    "classification": [5, 0]
+  },
+  {
+    "query": "List all the events on my calendar for the upcoming month.",
+    "classification": [6, 3]
+  },
+  {
+    "query": "Permanently delete the note named 'Old Ideas'.",
+    "classification": [1, 3]
+  },
+  {
+    "query": "Calculate the factorial of 10 for my math homework.",
+    "classification": [0, 7]
+  },
+  {
+    "query": "Send the prepared email draft to Sarah regarding the team meeting.",
+    "classification": [4, 1]
+  },
+  {
+    "query": "Show me the last 10 emails received from my boss.",
+    "classification": [4, 2]
+  },
+  {
+    "query": "Calculate the total when you add 98765 and 43210 together, please.",
+    "classification": [0, 0]
+  },
+  {
+    "query": "Can you help me create a quick note for tomorrow's team meeting?",
+    "classification": [1, 0]
+  },
+  {
+    "query": "What's the weather prediction for the upcoming week in New York?",
+    "classification": [2, 1]
+  },
+  {
+    "query": "Translate the following sentences into French, would you?",
+    "classification": [3, 0]
+  },
+  {
+    "query": "Prepare an email draft to the manager regarding the monthly report but hold off on sending it.",
+    "classification": [4, 0]
+  },
+  {
+    "query": "Show me the notifications I haven't read yet from this afternoon.",
+    "classification": [5, 1]
+  },
+  {
+    "query": "Schedule the project kickoff meeting in my calendar for next Wednesday.",
+    "classification": [6, 0]
+  },
+  { "query": "How much is 789 multiplied by 321?", "classification": [0, 2] },
+  {
+    "query": "Can you take out the dentist appointment from next Friday's calendar?",
+    "classification": [6, 1]
+  },
+  {
+    "query": "Find the note labeled 'Work Tasks' in my notes.",
+    "classification": [1, 2]
+  },
+  {
+    "query": "What's the week-long weather forecast for London?",
+    "classification": [2, 1]
+  },
+  {
+    "query": "Calculate the power of 5 raised to 8.",
+    "classification": [0, 4]
+  },
+  {
+    "query": "Check the air quality at coordinates 40.7128, -74.0060.",
+    "classification": [2, 2]
+  },
+  {
+    "query": "Modify my 'Weekend Plans' note with the latest details.",
+    "classification": [1, 4]
+  },
+  {
+    "query": "Notify all users about the upcoming maintenance window.",
+    "classification": [5, 0]
+  },
+  {
+    "query": "Display all events in my calendar for the next two weeks.",
+    "classification": [6, 3]
+  },
+  {
+    "query": "Delete the 'Old Notes' permanently from my collection.",
+    "classification": [1, 3]
+  },
+  {
+    "query": "Find the factorial of 12 for my assignment.",
+    "classification": [0, 7]
+  },
+  {
+    "query": "Send the drafted email to Emily about the marketing strategy.",
+    "classification": [4, 1]
+  },
+  {
+    "query": "Display the last 5 emails I received from my supervisor.",
+    "classification": [4, 2]
+  },
+  {
+    "query": "Perform the addition of 56789 and 12345 for me.",
+    "classification": [0, 0]
+  },
+  {
+    "query": "I need to make a quick note about the call I had today.",
+    "classification": [1, 0]
+  },
+  {
+    "query": "What will the weather be like next week in San Francisco?",
+    "classification": [2, 1]
+  },
+  {
+    "query": "Can you convert this paragraph into German for me?",
+    "classification": [3, 0]
+  },
+  {
+    "query": "Draft an email to the team about the upcoming deadlines but don't send it yet.",
+    "classification": [4, 0]
+  },
+  {
+    "query": "Show me all the unread notifications I received yesterday.",
+    "classification": [5, 1]
+  },
+  {
+    "query": "Add a reminder for the staff meeting to my calendar for next Tuesday.",
+    "classification": [6, 0]
+  },
+  {
+    "query": "What is the result if you multiply 234 by 567?",
+    "classification": [0, 2]
+  },
+  {
+    "query": "Remove the doctor's appointment from my calendar for next Thursday.",
+    "classification": [6, 1]
+  },
+  {
+    "query": "Retrieve the note called 'Ideas' from my notes.",
+    "classification": [1, 2]
+  },
+  {
+    "query": "What's the 7-day weather forecast for Tokyo?",
+    "classification": [2, 1]
+  },
+  { "query": "Calculate 2 to the power of 10.", "classification": [0, 4] },
+  {
+    "query": "Check the air quality at 48.8566, 2.3522.",
+    "classification": [2, 2]
+  },
+  {
+    "query": "Update my note titled 'To-Do' with the new list.",
+    "classification": [1, 4]
+  },
+  {
+    "query": "Send a notification to all staff about the meeting.",
+    "classification": [5, 0]
+  },
+  {
+    "query": "List all upcoming events in my calendar for the next three weeks.",
+    "classification": [6, 3]
+  },
+  {
+    "query": "Delete the 'Unused Notes' permanently.",
+    "classification": [1, 3]
+  },
+  {
+    "query": "Calculate the factorial of 15 for the math project.",
+    "classification": [0, 7]
+  },
+  {
+    "query": "Send the email draft to the finance team regarding the budget.",
+    "classification": [4, 1]
+  },
+  {
+    "query": "Show me the last 3 emails I got from the HR department.",
+    "classification": [4, 2]
+  },
+  {
+    "query": "Can you calculate the sum of 12345 and 67890 for me?",
+    "classification": [0, 0]
+  },
+  {
+    "query": "I need to jot down a quick note about the meeting tomorrow.",
+    "classification": [1, 0]
+  },
+  {
+    "query": "What is the weather forecast for the next week in Los Angeles?",
+    "classification": [2, 1]
+  },
+  {
+    "query": "Could you translate the following paragraph into Spanish for me?",
+    "classification": [3, 0]
+  },
+  {
+    "query": "Compose an email draft to John regarding the project update, but don't send it yet.",
+    "classification": [4, 0]
+  },
+  {
+    "query": "Show me all unread notifications I received this morning.",
+    "classification": [5, 1]
+  },
+  {
+    "query": "Add the annual review meeting to my calendar for next Monday.",
+    "classification": [6, 0]
+  },
+  {
+    "query": "What do I get if I multiply 123 by 456?",
+    "classification": [0, 2]
+  },
+  {
+    "query": "Please remove the dentist appointment from my calendar scheduled for next Friday.",
+    "classification": [6, 1]
+  },
+  {
+    "query": "Retrieve the note titled 'Shopping List' from my notes.",
+    "classification": [1, 2]
+  },
+  {
+    "query": "Can you give me the 7-day weather forecast for Paris?",
+    "classification": [2, 1]
+  },
+  {
+    "query": "Compute the result of raising 10 to the power of 6.",
+    "classification": [0, 4]
+  },
+  {
+    "query": "Check the air quality index for the coordinates 34.0522, -118.2437.",
+    "classification": [2, 2]
+  },
+  {
+    "query": "Update my note titled 'To-Do List' with the new tasks for the week.",
+    "classification": [1, 4]
+  },
+  {
+    "query": "Send a notification to all users about the scheduled system maintenance.",
+    "classification": [5, 0]
+  },
+  {
+    "query": "List all the events on my calendar for the upcoming month.",
+    "classification": [6, 3]
+  },
+  {
+    "query": "Permanently delete the note named 'Old Ideas'.",
+    "classification": [1, 3]
+  },
+  {
+    "query": "Calculate the factorial of 10 for my math homework.",
+    "classification": [0, 7]
+  },
+  {
+    "query": "Send the prepared email draft to Sarah regarding the team meeting.",
+    "classification": [4, 1]
+  },
+  {
+    "query": "Show me the last 10 emails received from my boss.",
+    "classification": [4, 2]
+  },
+  {
+    "query": "Calculate the total when you add 98765 and 43210 together, please.",
+    "classification": [0, 0]
+  },
+  {
+    "query": "Can you help me create a quick note for tomorrow's team meeting?",
+    "classification": [1, 0]
+  },
+  {
+    "query": "What's the weather prediction for the upcoming week in New York?",
+    "classification": [2, 1]
+  },
+  {
+    "query": "Translate the following sentences into French, would you?",
+    "classification": [3, 0]
+  },
+  {
+    "query": "Prepare an email draft to the manager regarding the monthly report but hold off on sending it.",
+    "classification": [4, 0]
+  },
+  {
+    "query": "Show me the notifications I haven't read yet from this afternoon.",
+    "classification": [5, 1]
+  },
+  {
+    "query": "Schedule the project kickoff meeting in my calendar for next Wednesday.",
+    "classification": [6, 0]
+  },
+  { "query": "How much is 789 multiplied by 321?", "classification": [0, 2] },
+  {
+    "query": "Can you take out the dentist appointment from next Friday's calendar?",
+    "classification": [6, 1]
+  },
+  {
+    "query": "Find the note labeled 'Work Tasks' in my notes.",
+    "classification": [1, 2]
+  },
+  {
+    "query": "What's the week-long weather forecast for London?",
+    "classification": [2, 1]
+  },
+  {
+    "query": "Calculate the power of 5 raised to 8.",
+    "classification": [0, 4]
+  },
+  {
+    "query": "Check the air quality at coordinates 40.7128, -74.0060.",
+    "classification": [2, 2]
+  },
+  {
+    "query": "Modify my 'Weekend Plans' note with the latest details.",
+    "classification": [1, 4]
+  },
+  {
+    "query": "Notify all users about the upcoming maintenance window.",
+    "classification": [5, 0]
+  },
+  {
+    "query": "Display all events in my calendar for the next two weeks.",
+    "classification": [6, 3]
+  },
+  {
+    "query": "Delete the 'Old Notes' permanently from my collection.",
+    "classification": [1, 3]
+  },
+  {
+    "query": "Find the factorial of 12 for my assignment.",
+    "classification": [0, 7]
+  },
+  {
+    "query": "Send the drafted email to Emily about the marketing strategy.",
+    "classification": [4, 1]
+  },
+  {
+    "query": "Display the last 5 emails I received from my supervisor.",
+    "classification": [4, 2]
+  },
+  {
+    "query": "Perform the addition of 56789 and 12345 for me.",
+    "classification": [0, 0]
+  },
+  {
+    "query": "I need to make a quick note about the call I had today.",
+    "classification": [1, 0]
+  },
+  {
+    "query": "What will the weather be like next week in San Francisco?",
+    "classification": [2, 1]
+  },
+  {
+    "query": "Can you convert this paragraph into German for me?",
+    "classification": [3, 0]
+  },
+  {
+    "query": "Draft an email to the team about the upcoming deadlines but don't send it yet.",
+    "classification": [4, 0]
+  },
+  {
+    "query": "Show me all the unread notifications I received yesterday.",
+    "classification": [5, 1]
+  },
+  {
+    "query": "Add a reminder for the staff meeting to my calendar for next Tuesday.",
+    "classification": [6, 0]
+  },
+  {
+    "query": "What is the result if you multiply 234 by 567?",
+    "classification": [0, 2]
+  },
+  {
+    "query": "Remove the doctor's appointment from my calendar for next Thursday.",
+    "classification": [6, 1]
+  },
+  {
+    "query": "Retrieve the note called 'Ideas' from my notes.",
+    "classification": [1, 2]
+  },
+  {
+    "query": "What's the 7-day weather forecast for Tokyo?",
+    "classification": [2, 1]
+  },
+  { "query": "Calculate 2 to the power of 10.", "classification": [0, 4] },
+  {
+    "query": "Check the air quality at 48.8566, 2.3522.",
+    "classification": [2, 2]
+  },
+  {
+    "query": "Update my note titled 'To-Do' with the new list.",
+    "classification": [1, 4]
+  },
+  {
+    "query": "Send a notification to all staff about the meeting.",
+    "classification": [5, 0]
+  },
+  {
+    "query": "List all upcoming events in my calendar for the next three weeks.",
+    "classification": [6, 3]
+  },
+  {
+    "query": "Delete the 'Unused Notes' permanently.",
+    "classification": [1, 3]
+  },
+  {
+    "query": "Calculate the factorial of 15 for the math project.",
+    "classification": [0, 7]
+  },
+  {
+    "query": "Send the email draft to the finance team regarding the budget.",
+    "classification": [4, 1]
+  },
+  {
+    "query": "Show me the last 3 emails I got from the HR department.",
+    "classification": [4, 2]
+  },
+  {
+    "query": "Can you calculate the sum of 12345 and 67890 for me?",
+    "classification": [0, 0]
+  },
+  {
+    "query": "I need to jot down a quick note about the meeting tomorrow.",
+    "classification": [1, 0]
+  },
+  {
+    "query": "What is the weather forecast for the next week in Los Angeles?",
+    "classification": [2, 1]
+  },
+  {
+    "query": "Could you translate the following paragraph into Spanish for me?",
+    "classification": [3, 0]
+  },
+  {
+    "query": "Compose an email draft to John regarding the project update, but don't send it yet.",
+    "classification": [4, 0]
+  },
+  {
+    "query": "Show me all unread notifications I received this morning.",
+    "classification": [5, 1]
+  },
+  {
+    "query": "Add the annual review meeting to my calendar for next Monday.",
+    "classification": [6, 0]
+  },
+  {
+    "query": "What do I get if I multiply 123 by 456?",
+    "classification": [0, 2]
+  },
+  {
+    "query": "Please remove the dentist appointment from my calendar scheduled for next Friday.",
+    "classification": [6, 1]
+  },
+  {
+    "query": "Retrieve the note titled 'Shopping List' from my notes.",
+    "classification": [1, 2]
+  },
+  {
+    "query": "Can you give me the 7-day weather forecast for Paris?",
+    "classification": [2, 1]
+  },
+  {
+    "query": "Compute the result of raising 10 to the power of 6.",
+    "classification": [0, 4]
+  },
+  {
+    "query": "Check the air quality index for the coordinates 34.0522, -118.2437.",
+    "classification": [2, 2]
+  },
+  {
+    "query": "Update my note titled 'To-Do List' with the new tasks for the week.",
+    "classification": [1, 4]
+  },
+  {
+    "query": "Send a notification to all users about the scheduled system maintenance.",
+    "classification": [5, 0]
+  },
+  {
+    "query": "List all the events on my calendar for the upcoming month.",
+    "classification": [6, 3]
+  },
+  {
+    "query": "Permanently delete the note named 'Old Ideas'.",
+    "classification": [1, 3]
+  },
+  {
+    "query": "Calculate the factorial of 10 for my math homework.",
+    "classification": [0, 7]
+  },
+  {
+    "query": "Send the prepared email draft to Sarah regarding the team meeting.",
+    "classification": [4, 1]
+  },
+  {
+    "query": "Show me the last 10 emails received from my boss.",
+    "classification": [4, 2]
+  },
+  {
+    "query": "Calculate the total when you add 98765 and 43210 together, please.",
+    "classification": [0, 0]
+  },
+  {
+    "query": "Can you help me create a quick note for tomorrow's team meeting?",
+    "classification": [1, 0]
+  },
+  {
+    "query": "What's the weather prediction for the upcoming week in New York?",
+    "classification": [2, 1]
+  },
+  {
+    "query": "Translate the following sentences into French, would you?",
+    "classification": [3, 0]
+  },
+  {
+    "query": "Prepare an email draft to the manager regarding the monthly report but hold off on sending it.",
+    "classification": [4, 0]
+  },
+  {
+    "query": "Show me the notifications I haven't read yet from this afternoon.",
+    "classification": [5, 1]
+  },
+  {
+    "query": "Schedule the project kickoff meeting in my calendar for next Wednesday.",
+    "classification": [6, 0]
+  },
+  { "query": "How much is 789 multiplied by 321?", "classification": [0, 2] },
+  {
+    "query": "Can you take out the dentist appointment from next Friday's calendar?",
+    "classification": [6, 1]
+  },
+  {
+    "query": "Find the note labeled 'Work Tasks' in my notes.",
+    "classification": [1, 2]
+  },
+  {
+    "query": "What's the week-long weather forecast for London?",
+    "classification": [2, 1]
+  },
+  {
+    "query": "Calculate the power of 5 raised to 8.",
+    "classification": [0, 4]
+  },
+  {
+    "query": "Check the air quality at coordinates 40.7128, -74.0060.",
+    "classification": [2, 2]
+  },
+  {
+    "query": "Modify my 'Weekend Plans' note with the latest details.",
+    "classification": [1, 4]
+  },
+  {
+    "query": "Notify all users about the upcoming maintenance window.",
+    "classification": [5, 0]
+  },
+  {
+    "query": "Display all events in my calendar for the next two weeks.",
+    "classification": [6, 3]
+  },
+  {
+    "query": "Delete the 'Old Notes' permanently from my collection.",
+    "classification": [1, 3]
+  },
+  {
+    "query": "Find the factorial of 12 for my assignment.",
+    "classification": [0, 7]
+  },
+  {
+    "query": "Send the drafted email to Emily about the marketing strategy.",
+    "classification": [4, 1]
+  },
+  {
+    "query": "Display the last 5 emails I received from my supervisor.",
+    "classification": [4, 2]
+  },
+  {
+    "query": "Perform the addition of 56789 and 12345 for me.",
+    "classification": [0, 0]
+  },
+  {
+    "query": "I need to make a quick note about the call I had today.",
+    "classification": [1, 0]
+  },
+  {
+    "query": "What will the weather be like next week in San Francisco?",
+    "classification": [2, 1]
+  },
+  {
+    "query": "Can you convert this paragraph into German for me?",
+    "classification": [3, 0]
+  },
+  {
+    "query": "Draft an email to the team about the upcoming deadlines but don't send it yet.",
+    "classification": [4, 0]
+  },
+  {
+    "query": "Show me all the unread notifications I received yesterday.",
+    "classification": [5, 1]
+  },
+  {
+    "query": "Add a reminder for the staff meeting to my calendar for next Tuesday.",
+    "classification": [6, 0]
+  },
+  {
+    "query": "What is the result if you multiply 234 by 567?",
+    "classification": [0, 2]
+  },
+  {
+    "query": "Remove the doctor's appointment from my calendar for next Thursday.",
+    "classification": [6, 1]
+  },
+  {
+    "query": "Retrieve the note called 'Ideas' from my notes.",
+    "classification": [1, 2]
+  },
+  {
+    "query": "What's the 7-day weather forecast for Tokyo?",
+    "classification": [2, 1]
+  },
+  { "query": "Calculate 2 to the power of 10.", "classification": [0, 4] },
+  {
+    "query": "Check the air quality at 48.8566, 2.3522.",
+    "classification": [2, 2]
+  },
+  {
+    "query": "Update my note titled 'To-Do' with the new list.",
+    "classification": [1, 4]
+  },
+  {
+    "query": "Send a notification to all staff about the meeting.",
+    "classification": [5, 0]
+  },
+  {
+    "query": "List all upcoming events in my calendar for the next three weeks.",
+    "classification": [6, 3]
+  },
+  {
+    "query": "Delete the 'Unused Notes' permanently.",
+    "classification": [1, 3]
+  },
+  {
+    "query": "Calculate the factorial of 15 for the math project.",
+    "classification": [0, 7]
+  },
+  {
+    "query": "Send the email draft to the finance team regarding the budget.",
+    "classification": [4, 1]
+  },
+  {
+    "query": "Show me the last 3 emails I got from the HR department.",
+    "classification": [4, 2]
+  },
+  {
+    "query": "Can you calculate the sum of 12345 and 67890 for me?",
+    "classification": [0, 0]
+  },
+  {
+    "query": "I need to jot down a quick note about the meeting tomorrow.",
+    "classification": [1, 0]
+  },
+  {
+    "query": "What is the weather forecast for the next week in Los Angeles?",
+    "classification": [2, 1]
+  },
+  {
+    "query": "Could you translate the following paragraph into Spanish for me?",
+    "classification": [3, 0]
+  },
+  {
+    "query": "Compose an email draft to John regarding the project update, but don't send it yet.",
+    "classification": [4, 0]
+  },
+  {
+    "query": "Show me all unread notifications I received this morning.",
+    "classification": [5, 1]
+  },
+  {
+    "query": "Add the annual review meeting to my calendar for next Monday.",
+    "classification": [6, 0]
+  },
+  {
+    "query": "What do I get if I multiply 123 by 456?",
+    "classification": [0, 2]
+  },
+  {
+    "query": "Please remove the dentist appointment from my calendar scheduled for next Friday.",
+    "classification": [6, 1]
+  },
+  {
+    "query": "Retrieve the note titled 'Shopping List' from my notes.",
+    "classification": [1, 2]
+  },
+  {
+    "query": "Can you give me the 7-day weather forecast for Paris?",
+    "classification": [2, 1]
+  },
+  {
+    "query": "Compute the result of raising 10 to the power of 6.",
+    "classification": [0, 4]
+  },
+  {
+    "query": "Check the air quality index for the coordinates 34.0522, -118.2437.",
+    "classification": [2, 2]
+  },
+  {
+    "query": "Update my note titled 'To-Do List' with the new tasks for the week.",
+    "classification": [1, 4]
+  },
+  {
+    "query": "Send a notification to all users about the scheduled system maintenance.",
+    "classification": [5, 0]
+  },
+  {
+    "query": "List all the events on my calendar for the upcoming month.",
+    "classification": [6, 3]
+  },
+  {
+    "query": "Permanently delete the note named 'Old Ideas'.",
+    "classification": [1, 3]
+  },
+  {
+    "query": "Calculate the factorial of 10 for my math homework.",
+    "classification": [0, 7]
+  },
+  {
+    "query": "Send the prepared email draft to Sarah regarding the team meeting.",
+    "classification": [4, 1]
+  },
+  {
+    "query": "Show me the last 10 emails received from my boss.",
+    "classification": [4, 2]
+  },
+  {
+    "query": "Calculate the total when you add 98765 and 43210 together, please.",
+    "classification": [0, 0]
+  },
+  {
+    "query": "Can you help me create a quick note for tomorrow's team meeting?",
+    "classification": [1, 0]
+  },
+  {
+    "query": "What's the weather prediction for the upcoming week in New York?",
+    "classification": [2, 1]
+  },
+  {
+    "query": "Translate the following sentences into French, would you?",
+    "classification": [3, 0]
+  },
+  {
+    "query": "Prepare an email draft to the manager regarding the monthly report but hold off on sending it.",
+    "classification": [4, 0]
+  },
+  {
+    "query": "Show me the notifications I haven't read yet from this afternoon.",
+    "classification": [5, 1]
+  },
+  {
+    "query": "Schedule the project kickoff meeting in my calendar for next Wednesday.",
+    "classification": [6, 0]
+  },
+  { "query": "How much is 789 multiplied by 321?", "classification": [0, 2] },
+  {
+    "query": "Can you take out the dentist appointment from next Friday's calendar?",
+    "classification": [6, 1]
+  },
+  {
+    "query": "Find the note labeled 'Work Tasks' in my notes.",
+    "classification": [1, 2]
+  },
+  {
+    "query": "What's the week-long weather forecast for London?",
+    "classification": [2, 1]
+  },
+  {
+    "query": "Calculate the power of 5 raised to 8.",
+    "classification": [0, 4]
+  },
+  {
+    "query": "Check the air quality at coordinates 40.7128, -74.0060.",
+    "classification": [2, 2]
+  },
+  {
+    "query": "Modify my 'Weekend Plans' note with the latest details.",
+    "classification": [1, 4]
+  },
+  {
+    "query": "Notify all users about the upcoming maintenance window.",
+    "classification": [5, 0]
+  },
+  {
+    "query": "Display all events in my calendar for the next two weeks.",
+    "classification": [6, 3]
+  },
+  {
+    "query": "Delete the 'Old Notes' permanently from my collection.",
+    "classification": [1, 3]
+  },
+  {
+    "query": "Find the factorial of 12 for my assignment.",
+    "classification": [0, 7]
+  },
+  {
+    "query": "Send the drafted email to Emily about the marketing strategy.",
+    "classification": [4, 1]
+  },
+  {
+    "query": "Display the last 5 emails I received from my supervisor.",
+    "classification": [4, 2]
+  },
+  {
+    "query": "Perform the addition of 56789 and 12345 for me.",
+    "classification": [0, 0]
+  },
+  {
+    "query": "I need to make a quick note about the call I had today.",
+    "classification": [1, 0]
+  },
+  {
+    "query": "What will the weather be like next week in San Francisco?",
+    "classification": [2, 1]
+  },
+  {
+    "query": "Can you convert this paragraph into German for me?",
+    "classification": [3, 0]
+  },
+  {
+    "query": "Draft an email to the team about the upcoming deadlines but don't send it yet.",
+    "classification": [4, 0]
+  },
+  {
+    "query": "Show me all the unread notifications I received yesterday.",
+    "classification": [5, 1]
+  },
+  {
+    "query": "Add a reminder for the staff meeting to my calendar for next Tuesday.",
+    "classification": [6, 0]
+  },
+  {
+    "query": "What is the result if you multiply 234 by 567?",
+    "classification": [0, 2]
+  },
+  {
+    "query": "Remove the doctor's appointment from my calendar for next Thursday.",
+    "classification": [6, 1]
+  },
+  {
+    "query": "Retrieve the note called 'Ideas' from my notes.",
+    "classification": [1, 2]
+  },
+  {
+    "query": "What's the 7-day weather forecast for Tokyo?",
+    "classification": [2, 1]
+  },
+  { "query": "Calculate 2 to the power of 10.", "classification": [0, 4] },
+  {
+    "query": "Check the air quality at 48.8566, 2.3522.",
+    "classification": [2, 2]
+  },
+  {
+    "query": "Update my note titled 'To-Do' with the new list.",
+    "classification": [1, 4]
+  },
+  {
+    "query": "Send a notification to all staff about the meeting.",
+    "classification": [5, 0]
+  },
+  {
+    "query": "List all upcoming events in my calendar for the next three weeks.",
+    "classification": [6, 3]
+  },
+  {
+    "query": "Delete the 'Unused Notes' permanently.",
+    "classification": [1, 3]
+  },
+  {
+    "query": "Calculate the factorial of 15 for the math project.",
+    "classification": [0, 7]
+  },
+  {
+    "query": "Send the email draft to the finance team regarding the budget.",
+    "classification": [4, 1]
+  },
+  {
+    "query": "Show me the last 3 emails I got from the HR department.",
+    "classification": [4, 2]
+  },
+  {
+    "query": "Can you calculate the sum of 12345 and 67890 for me?",
+    "classification": [0, 0]
+  },
+  {
+    "query": "I need to jot down a quick note about the meeting tomorrow.",
+    "classification": [1, 0]
+  },
+  {
+    "query": "What is the weather forecast for the next week in Los Angeles?",
+    "classification": [2, 1]
+  },
+  {
+    "query": "Could you translate the following paragraph into Spanish for me?",
+    "classification": [3, 0]
+  },
+  {
+    "query": "Compose an email draft to John regarding the project update, but don't send it yet.",
+    "classification": [4, 0]
+  },
+  {
+    "query": "Show me all unread notifications I received this morning.",
+    "classification": [5, 1]
+  },
+  {
+    "query": "Add the annual review meeting to my calendar for next Monday.",
+    "classification": [6, 0]
+  },
+  {
+    "query": "What do I get if I multiply 123 by 456?",
+    "classification": [0, 2]
+  },
+  {
+    "query": "Please remove the dentist appointment from my calendar scheduled for next Friday.",
+    "classification": [6, 1]
+  },
+  {
+    "query": "Retrieve the note titled 'Shopping List' from my notes.",
+    "classification": [1, 2]
+  },
+  {
+    "query": "Can you give me the 7-day weather forecast for Paris?",
+    "classification": [2, 1]
+  },
+  {
+    "query": "Compute the result of raising 10 to the power of 6.",
+    "classification": [0, 4]
+  },
+  {
+    "query": "Check the air quality index for the coordinates 34.0522, -118.2437.",
+    "classification": [2, 2]
+  },
+  {
+    "query": "Update my note titled 'To-Do List' with the new tasks for the week.",
+    "classification": [1, 4]
+  },
+  {
+    "query": "Send a notification to all users about the scheduled system maintenance.",
+    "classification": [5, 0]
+  },
+  {
+    "query": "List all the events on my calendar for the upcoming month.",
+    "classification": [6, 3]
+  },
+  {
+    "query": "Permanently delete the note named 'Old Ideas'.",
+    "classification": [1, 3]
+  },
+  {
+    "query": "Calculate the factorial of 10 for my math homework.",
+    "classification": [0, 7]
+  },
+  {
+    "query": "Send the prepared email draft to Sarah regarding the team meeting.",
+    "classification": [4, 1]
+  },
+  {
+    "query": "Show me the last 10 emails received from my boss.",
+    "classification": [4, 2]
+  },
+  {
+    "query": "Calculate the total when you add 98765 and 43210 together, please.",
+    "classification": [0, 0]
+  },
+  {
+    "query": "Can you help me create a quick note for tomorrow's team meeting?",
+    "classification": [1, 0]
+  },
+  {
+    "query": "What's the weather prediction for the upcoming week in New York?",
+    "classification": [2, 1]
+  },
+  {
+    "query": "Translate the following sentences into French, would you?",
+    "classification": [3, 0]
+  },
+  {
+    "query": "Prepare an email draft to the manager regarding the monthly report but hold off on sending it.",
+    "classification": [4, 0]
+  },
+  {
+    "query": "Show me the notifications I haven't read yet from this afternoon.",
+    "classification": [5, 1]
+  },
+  {
+    "query": "Schedule the project kickoff meeting in my calendar for next Wednesday.",
+    "classification": [6, 0]
+  },
+  { "query": "How much is 789 multiplied by 321?", "classification": [0, 2] },
+  {
+    "query": "Can you take out the dentist appointment from next Friday's calendar?",
+    "classification": [6, 1]
+  },
+  {
+    "query": "Find the note labeled 'Work Tasks' in my notes.",
+    "classification": [1, 2]
+  },
+  {
+    "query": "What's the week-long weather forecast for London?",
+    "classification": [2, 1]
+  },
+  {
+    "query": "Calculate the power of 5 raised to 8.",
+    "classification": [0, 4]
+  },
+  {
+    "query": "Check the air quality at coordinates 40.7128, -74.0060.",
+    "classification": [2, 2]
+  },
+  {
+    "query": "Modify my 'Weekend Plans' note with the latest details.",
+    "classification": [1, 4]
+  },
+  {
+    "query": "Notify all users about the upcoming maintenance window.",
+    "classification": [5, 0]
+  },
+  {
+    "query": "Display all events in my calendar for the next two weeks.",
+    "classification": [6, 3]
+  },
+  {
+    "query": "Delete the 'Old Notes' permanently from my collection.",
+    "classification": [1, 3]
+  },
+  {
+    "query": "Find the factorial of 12 for my assignment.",
+    "classification": [0, 7]
+  },
+  {
+    "query": "Send the drafted email to Emily about the marketing strategy.",
+    "classification": [4, 1]
+  },
+  {
+    "query": "Display the last 5 emails I received from my supervisor.",
+    "classification": [4, 2]
+  },
+  {
+    "query": "Perform the addition of 56789 and 12345 for me.",
+    "classification": [0, 0]
+  },
+  {
+    "query": "I need to make a quick note about the call I had today.",
+    "classification": [1, 0]
+  },
+  {
+    "query": "What will the weather be like next week in San Francisco?",
+    "classification": [2, 1]
+  },
+  {
+    "query": "Can you convert this paragraph into German for me?",
+    "classification": [3, 0]
+  },
+  {
+    "query": "Draft an email to the team about the upcoming deadlines but don't send it yet.",
+    "classification": [4, 0]
+  },
+  {
+    "query": "Show me all the unread notifications I received yesterday.",
+    "classification": [5, 1]
+  },
+  {
+    "query": "Add a reminder for the staff meeting to my calendar for next Tuesday.",
+    "classification": [6, 0]
+  },
+  {
+    "query": "What is the result if you multiply 234 by 567?",
+    "classification": [0, 2]
+  },
+  {
+    "query": "Remove the doctor's appointment from my calendar for next Thursday.",
+    "classification": [6, 1]
+  },
+  {
+    "query": "Retrieve the note called 'Ideas' from my notes.",
+    "classification": [1, 2]
+  },
+  {
+    "query": "What's the 7-day weather forecast for Tokyo?",
+    "classification": [2, 1]
+  },
+  { "query": "Calculate 2 to the power of 10.", "classification": [0, 4] },
+  {
+    "query": "Check the air quality at 48.8566, 2.3522.",
+    "classification": [2, 2]
+  },
+  {
+    "query": "Update my note titled 'To-Do' with the new list.",
+    "classification": [1, 4]
+  },
+  {
+    "query": "Send a notification to all staff about the meeting.",
+    "classification": [5, 0]
+  },
+  {
+    "query": "List all upcoming events in my calendar for the next three weeks.",
+    "classification": [6, 3]
+  },
+  {
+    "query": "Delete the 'Unused Notes' permanently.",
+    "classification": [1, 3]
+  },
+  {
+    "query": "Calculate the factorial of 15 for the math project.",
+    "classification": [0, 7]
+  },
+  {
+    "query": "Send the email draft to the finance team regarding the budget.",
+    "classification": [4, 1]
+  },
+  {
+    "query": "Show me the last 3 emails I got from the HR department.",
+    "classification": [4, 2]
+  },
+  {
+    "query": "Can you calculate the sum of 12345 and 67890 for me?",
+    "classification": [0, 0]
+  },
+  {
+    "query": "I need to jot down a quick note about the meeting tomorrow.",
+    "classification": [1, 0]
+  },
+  {
+    "query": "What is the weather forecast for the next week in Los Angeles?",
+    "classification": [2, 1]
+  },
+  {
+    "query": "Could you translate the following paragraph into Spanish for me?",
+    "classification": [3, 0]
+  },
+  {
+    "query": "Compose an email draft to John regarding the project update, but don't send it yet.",
+    "classification": [4, 0]
+  },
+  {
+    "query": "Show me all unread notifications I received this morning.",
+    "classification": [5, 1]
+  },
+  {
+    "query": "Add the annual review meeting to my calendar for next Monday.",
+    "classification": [6, 0]
+  },
+  {
+    "query": "What do I get if I multiply 123 by 456?",
+    "classification": [0, 2]
+  },
+  {
+    "query": "Please remove the dentist appointment from my calendar scheduled for next Friday.",
+    "classification": [6, 1]
+  },
+  {
+    "query": "Retrieve the note titled 'Shopping List' from my notes.",
+    "classification": [1, 2]
+  },
+  {
+    "query": "Can you give me the 7-day weather forecast for Paris?",
+    "classification": [2, 1]
+  },
+  {
+    "query": "Compute the result of raising 10 to the power of 6.",
+    "classification": [0, 4]
+  },
+  {
+    "query": "Check the air quality index for the coordinates 34.0522, -118.2437.",
+    "classification": [2, 2]
+  },
+  {
+    "query": "Update my note titled 'To-Do List' with the new tasks for the week.",
+    "classification": [1, 4]
+  },
+  {
+    "query": "Send a notification to all users about the scheduled system maintenance.",
+    "classification": [5, 0]
+  },
+  {
+    "query": "List all the events on my calendar for the upcoming month.",
+    "classification": [6, 3]
+  },
+  {
+    "query": "Permanently delete the note named 'Old Ideas'.",
+    "classification": [1, 3]
+  },
+  {
+    "query": "Calculate the factorial of 10 for my math homework.",
+    "classification": [0, 7]
+  },
+  {
+    "query": "Send the prepared email draft to Sarah regarding the team meeting.",
+    "classification": [4, 1]
+  },
+  {
+    "query": "Show me the last 10 emails received from my boss.",
+    "classification": [4, 2]
+  },
+  {
+    "query": "Calculate the total when you add 98765 and 43210 together, please.",
+    "classification": [0, 0]
+  },
+  {
+    "query": "Can you help me create a quick note for tomorrow's team meeting?",
+    "classification": [1, 0]
+  },
+  {
+    "query": "What's the weather prediction for the upcoming week in New York?",
+    "classification": [2, 1]
+  },
+  {
+    "query": "Translate the following sentences into French, would you?",
+    "classification": [3, 0]
+  },
+  {
+    "query": "Prepare an email draft to the manager regarding the monthly report but hold off on sending it.",
+    "classification": [4, 0]
+  },
+  {
+    "query": "Show me the notifications I haven't read yet from this afternoon.",
+    "classification": [5, 1]
+  },
+  {
+    "query": "Schedule the project kickoff meeting in my calendar for next Wednesday.",
+    "classification": [6, 0]
+  },
+  { "query": "How much is 789 multiplied by 321?", "classification": [0, 2] },
+  {
+    "query": "Can you take out the dentist appointment from next Friday's calendar?",
+    "classification": [6, 1]
+  },
+  {
+    "query": "Find the note labeled 'Work Tasks' in my notes.",
+    "classification": [1, 2]
+  },
+  {
+    "query": "What's the week-long weather forecast for London?",
+    "classification": [2, 1]
+  },
+  {
+    "query": "Calculate the power of 5 raised to 8.",
+    "classification": [0, 4]
+  },
+  {
+    "query": "Check the air quality at coordinates 40.7128, -74.0060.",
+    "classification": [2, 2]
+  },
+  {
+    "query": "Modify my 'Weekend Plans' note with the latest details.",
+    "classification": [1, 4]
+  },
+  {
+    "query": "Notify all users about the upcoming maintenance window.",
+    "classification": [5, 0]
+  },
+  {
+    "query": "Display all events in my calendar for the next two weeks.",
+    "classification": [6, 3]
+  },
+  {
+    "query": "Delete the 'Old Notes' permanently from my collection.",
+    "classification": [1, 3]
+  },
+  {
+    "query": "Find the factorial of 12 for my assignment.",
+    "classification": [0, 7]
+  },
+  {
+    "query": "Send the drafted email to Emily about the marketing strategy.",
+    "classification": [4, 1]
+  },
+  {
+    "query": "Display the last 5 emails I received from my supervisor.",
+    "classification": [4, 2]
+  },
+  {
+    "query": "Perform the addition of 56789 and 12345 for me.",
+    "classification": [0, 0]
+  },
+  {
+    "query": "I need to make a quick note about the call I had today.",
+    "classification": [1, 0]
+  },
+  {
+    "query": "What will the weather be like next week in San Francisco?",
+    "classification": [2, 1]
+  },
+  {
+    "query": "Can you convert this paragraph into German for me?",
+    "classification": [3, 0]
+  },
+  {
+    "query": "Draft an email to the team about the upcoming deadlines but don't send it yet.",
+    "classification": [4, 0]
+  },
+  {
+    "query": "Show me all the unread notifications I received yesterday.",
+    "classification": [5, 1]
+  },
+  {
+    "query": "Add a reminder for the staff meeting to my calendar for next Tuesday.",
+    "classification": [6, 0]
+  },
+  {
+    "query": "What is the result if you multiply 234 by 567?",
+    "classification": [0, 2]
+  },
+  {
+    "query": "Remove the doctor's appointment from my calendar for next Thursday.",
+    "classification": [6, 1]
+  },
+  {
+    "query": "Retrieve the note called 'Ideas' from my notes.",
+    "classification": [1, 2]
+  },
+  {
+    "query": "What's the 7-day weather forecast for Tokyo?",
+    "classification": [2, 1]
+  },
+  { "query": "Calculate 2 to the power of 10.", "classification": [0, 4] },
+  {
+    "query": "Check the air quality at 48.8566, 2.3522.",
+    "classification": [2, 2]
+  },
+  {
+    "query": "Update my note titled 'To-Do' with the new list.",
+    "classification": [1, 4]
+  },
+  {
+    "query": "Send a notification to all staff about the meeting.",
+    "classification": [5, 0]
+  },
+  {
+    "query": "List all upcoming events in my calendar for the next three weeks.",
+    "classification": [6, 3]
+  },
+  {
+    "query": "Delete the 'Unused Notes' permanently.",
+    "classification": [1, 3]
+  },
+  {
+    "query": "Calculate the factorial of 15 for the math project.",
+    "classification": [0, 7]
+  },
+  {
+    "query": "Send the email draft to the finance team regarding the budget.",
+    "classification": [4, 1]
+  },
+  {
+    "query": "Show me the last 3 emails I got from the HR department.",
+    "classification": [4, 2]
+  },
+  {
+    "query": "Can you calculate the sum of 12345 and 67890 for me?",
+    "classification": [0, 0]
+  },
+  {
+    "query": "Schedule a reminder for my dentist appointment next week.",
+    "classification": [6, 0]
+  },
+  {
+    "query": "Create a new note for my grocery list.",
+    "classification": [1, 0]
+  },
+  {
+    "query": "What's the weather going to be like in Seattle this weekend?",
+    "classification": [2, 1]
+  },
+  {
+    "query": "Translate the following text into Chinese.",
+    "classification": [3, 0]
+  },
+  {
+    "query": "Draft an email to HR regarding my leave request.",
+    "classification": [4, 0]
+  },
+  {
+    "query": "Show me the latest notifications from my bank.",
+    "classification": [5, 1]
+  },
+  {
+    "query": "Add the project deadline to my calendar for next Friday.",
+    "classification": [6, 0]
+  },
+  {
+    "query": "Multiply 56 by 78 and give me the result.",
+    "classification": [0, 2]
+  },
+  {
+    "query": "Remove the birthday party from my calendar.",
+    "classification": [6, 1]
+  },
+  {
+    "query": "Fetch the note titled 'Vacation Ideas'.",
+    "classification": [1, 2]
+  },
+  {
+    "query": "Give me a 5-day weather forecast for Miami.",
+    "classification": [2, 1]
+  },
+  {
+    "query": "Raise 3 to the power of 5 and show me the result.",
+    "classification": [0, 4]
+  },
+  {
+    "query": "Check the air quality in New York City.",
+    "classification": [2, 2]
+  },
+  {
+    "query": "Update the note 'Meeting Minutes' with today's points.",
+    "classification": [1, 4]
+  },
+  {
+    "query": "Notify all team members about the rescheduled meeting.",
+    "classification": [5, 0]
+  },
+  {
+    "query": "List all tasks due this week on my calendar.",
+    "classification": [6, 3]
+  },
+  {
+    "query": "Delete the note named 'Old Receipts'.",
+    "classification": [1, 3]
+  },
+  { "query": "Find the factorial of 7 for me.", "classification": [0, 7] },
+  {
+    "query": "Send the email draft to Mike about the budget review.",
+    "classification": [4, 1]
+  },
+  {
+    "query": "Show me the last 8 emails from my university.",
+    "classification": [4, 2]
+  },
+  {
+    "query": "Calculate the difference between 65432 and 12345.",
+    "classification": [0, 0]
+  },
+  {
+    "query": "Make a note about the conference call tomorrow.",
+    "classification": [1, 0]
+  },
+  {
+    "query": "What's the weather forecast for the next 5 days in Chicago?",
+    "classification": [2, 1]
+  },
+  {
+    "query": "Translate this sentence into Japanese.",
+    "classification": [3, 0]
+  },
+  {
+    "query": "Prepare an email to the sales team but don't send it yet.",
+    "classification": [4, 0]
+  },
+  {
+    "query": "Show me the unread notifications from yesterday evening.",
+    "classification": [5, 1]
+  },
+  {
+    "query": "Add a follow-up meeting to my calendar for this Thursday.",
+    "classification": [6, 0]
+  },
+  { "query": "What's the product of 123 and 789?", "classification": [0, 2] },
+  {
+    "query": "Cancel the doctor's appointment in my calendar.",
+    "classification": [6, 1]
+  },
+  { "query": "Find the note titled 'Project Plan'.", "classification": [1, 2] },
+  {
+    "query": "What's the 10-day weather outlook for Berlin?",
+    "classification": [2, 1]
+  },
+  { "query": "Calculate the result of 8 squared.", "classification": [0, 4] },
+  {
+    "query": "Check the air quality at 51.5074, -0.1278.",
+    "classification": [2, 2]
+  },
+  {
+    "query": "Update the 'To-Do' note with the latest tasks.",
+    "classification": [1, 4]
+  },
+  {
+    "query": "Notify the team about the changes in the project schedule.",
+    "classification": [5, 0]
+  },
+  {
+    "query": "List all appointments for the next month.",
+    "classification": [6, 3]
+  },
+  {
+    "query": "Permanently delete the note 'Unused Drafts'.",
+    "classification": [1, 3]
+  },
+  {
+    "query": "Calculate the factorial of 20 for me.",
+    "classification": [0, 7]
+  },
+  {
+    "query": "Send the email draft to the customer support team.",
+    "classification": [4, 1]
+  },
+  {
+    "query": "Show me the last 7 emails from my fitness club.",
+    "classification": [4, 2]
+  },
+  { "query": "Find the sum of 98765 and 43210.", "classification": [0, 0] },
+  {
+    "query": "Create a note for the budget review meeting.",
+    "classification": [1, 0]
+  },
+  {
+    "query": "What will the weather be like in Dallas next week?",
+    "classification": [2, 1]
+  },
+  { "query": "Translate this passage into Italian.", "classification": [3, 0] },
+  {
+    "query": "Draft an email to the marketing department but don't send it.",
+    "classification": [4, 0]
+  },
+  {
+    "query": "Show me the unread notifications from this morning.",
+    "classification": [5, 1]
+  },
+  {
+    "query": "Add the annual meeting to my calendar for next Thursday.",
+    "classification": [6, 0]
+  },
+  {
+    "query": "Multiply 92 by 83 and show the result.",
+    "classification": [0, 2]
+  },
+  {
+    "query": "Remove the workout session from my calendar.",
+    "classification": [6, 1]
+  },
+  {
+    "query": "Fetch the note titled 'Client Feedback'.",
+    "classification": [1, 2]
+  },
+  {
+    "query": "What's the 5-day weather forecast for Rome?",
+    "classification": [2, 1]
+  },
+  { "query": "Compute the cube of 4 and show me.", "classification": [0, 4] },
+  {
+    "query": "Check the air quality at 35.6895, 139.6917.",
+    "classification": [2, 2]
+  },
+  {
+    "query": "Update the 'Shopping List' note with the new items.",
+    "classification": [1, 4]
+  },
+  {
+    "query": "Notify all participants about the webinar.",
+    "classification": [5, 0]
+  },
+  {
+    "query": "Show all tasks scheduled for next week on my calendar.",
+    "classification": [6, 3]
+  },
+  { "query": "Delete the note 'Temporary Files'.", "classification": [1, 3] },
+  { "query": "Find the factorial of 5 for me.", "classification": [0, 7] },
+  {
+    "query": "Send the email draft to the HR department about new policies.",
+    "classification": [4, 1]
+  },
+  {
+    "query": "Show me the last 5 emails from my book club.",
+    "classification": [4, 2]
+  },
+  {
+    "query": "Calculate the difference between 87654 and 54321.",
+    "classification": [0, 0]
+  },
+  {
+    "query": "Make a note about the quarterly report review tomorrow.",
+    "classification": [1, 0]
+  },
+  {
+    "query": "What's the weather outlook for the next 7 days in Toronto?",
+    "classification": [2, 1]
+  },
+  {
+    "query": "Translate the following paragraph into Portuguese.",
+    "classification": [3, 0]
+  },
+  {
+    "query": "Prepare an email to the tech team but don't send it yet.",
+    "classification": [4, 0]
+  },
+  {
+    "query": "Show me the unread notifications from last night.",
+    "classification": [5, 1]
+  },
+  {
+    "query": "Add a team lunch to my calendar for next Friday.",
+    "classification": [6, 0]
+  },
+  { "query": "What is 567 times 345?", "classification": [0, 2] },
+  {
+    "query": "Remove the conference call from my calendar.",
+    "classification": [6, 1]
+  },
+  {
+    "query": "Retrieve the note called 'Weekly Summary'.",
+    "classification": [1, 2]
+  },
+  {
+    "query": "What's the weather forecast for the weekend in Madrid?",
+    "classification": [2, 1]
+  },
+  { "query": "Calculate the fourth power of 2.", "classification": [0, 4] },
+  {
+    "query": "Create a new calendar event for my doctor's appointment on Monday.",
+    "classification": [6, 0]
+  },
+  {
+    "query": "Can you translate this English paragraph to Japanese?",
+    "classification": [3, 0]
+  },
+  {
+    "query": "What is the air quality in San Francisco right now?",
+    "classification": [2, 2]
+  },
+  {
+    "query": "Update the 'Workout Plan' note with the new exercises.",
+    "classification": [1, 4]
+  },
+  {
+    "query": "Send a team-wide notification about the office closure.",
+    "classification": [5, 0]
+  },
+  {
+    "query": "Show all my meetings scheduled for next week.",
+    "classification": [6, 3]
+  },
+  {
+    "query": "Delete the note named 'Unused Contacts'.",
+    "classification": [1, 3]
+  },
+  {
+    "query": "Calculate the factorial of 8 for my project.",
+    "classification": [0, 7]
+  },
+  {
+    "query": "Send the email draft to the customer service team regarding the issue.",
+    "classification": [4, 1]
+  },
+  {
+    "query": "Show me the last 6 emails from my bank.",
+    "classification": [4, 2]
+  },
+  { "query": "Add 54321 and 12345 together.", "classification": [0, 0] },
+  {
+    "query": "Make a quick note about today's meeting outcomes.",
+    "classification": [1, 0]
+  },
+  {
+    "query": "What's the 3-day weather forecast for Boston?",
+    "classification": [2, 1]
+  },
+  {
+    "query": "Translate the following phrase into Russian.",
+    "classification": [3, 0]
+  },
+  {
+    "query": "Draft an email to the finance department about the new budget, but don't send it yet.",
+    "classification": [4, 0]
+  },
+  {
+    "query": "Show me the notifications I missed from last night.",
+    "classification": [5, 1]
+  },
+  {
+    "query": "Add a new reminder for my lunch appointment next Tuesday.",
+    "classification": [6, 0]
+  },
+  {
+    "query": "Multiply 48 by 52 and tell me the result.",
+    "classification": [0, 2]
+  },
+  {
+    "query": "Remove the conference meeting from my calendar for next Wednesday.",
+    "classification": [6, 1]
+  },
+  {
+    "query": "Find the note titled 'Shopping List' in my notes.",
+    "classification": [1, 2]
+  },
+  {
+    "query": "What's the weather forecast for the next 10 days in Sydney?",
+    "classification": [2, 1]
+  },
+  { "query": "Compute the square of 9.", "classification": [0, 4] },
+  {
+    "query": "Check the air quality at 40.730610, -73.935242.",
+    "classification": [2, 2]
+  },
+  {
+    "query": "Update my 'Travel Itinerary' note with the new flight details.",
+    "classification": [1, 4]
+  },
+  {
+    "query": "Notify all users about the software update next week.",
+    "classification": [5, 0]
+  },
+  {
+    "query": "List all appointments in my calendar for the next month.",
+    "classification": [6, 3]
+  },
+  {
+    "query": "Permanently delete the note named 'Old Projects'.",
+    "classification": [1, 3]
+  },
+  {
+    "query": "Calculate the factorial of 6 for my homework.",
+    "classification": [0, 7]
+  },
+  {
+    "query": "Send the email draft to the marketing team about the campaign.",
+    "classification": [4, 1]
+  },
+  {
+    "query": "Show me the last 4 emails from my insurance company.",
+    "classification": [4, 2]
+  },
+  { "query": "Add 87654 and 43210.", "classification": [0, 0] },
+  {
+    "query": "Create a note for the new project details.",
+    "classification": [1, 0]
+  },
+  {
+    "query": "What will the weather be like in Las Vegas this weekend?",
+    "classification": [2, 1]
+  },
+  {
+    "query": "Translate this paragraph into Korean.",
+    "classification": [3, 0]
+  },
+  {
+    "query": "Draft an email to the IT department about the network issues but don't send it yet.",
+    "classification": [4, 0]
+  },
+  {
+    "query": "Show me the unread notifications from this evening.",
+    "classification": [5, 1]
+  },
+  {
+    "query": "Add the team building event to my calendar for next Thursday.",
+    "classification": [6, 0]
+  },
+  { "query": "What is 345 times 789?", "classification": [0, 2] },
+  {
+    "query": "Remove the gym session from my calendar for next Friday.",
+    "classification": [6, 1]
+  },
+  {
+    "query": "Fetch the note titled 'Project Ideas'.",
+    "classification": [1, 2]
+  },
+  {
+    "query": "What's the 7-day weather forecast for Beijing?",
+    "classification": [2, 1]
+  },
+  { "query": "Calculate the cube of 7.", "classification": [0, 4] },
+  {
+    "query": "Check the air quality at 34.052235, -118.243683.",
+    "classification": [2, 2]
+  },
+  {
+    "query": "Update my note titled 'Meeting Notes' with today's discussion.",
+    "classification": [1, 4]
+  },
+  {
+    "query": "Notify the staff about the policy changes.",
+    "classification": [5, 0]
+  },
+  {
+    "query": "Show all tasks for next month on my calendar.",
+    "classification": [6, 3]
+  },
+  {
+    "query": "Delete the 'Unused Ideas' note permanently.",
+    "classification": [1, 3]
+  },
+  {
+    "query": "Find the factorial of 4 for my math homework.",
+    "classification": [0, 7]
+  },
+  {
+    "query": "Send the email draft to the HR department about the new hires.",
+    "classification": [4, 1]
+  },
+  {
+    "query": "Show me the last 2 emails from my utility company.",
+    "classification": [4, 2]
+  },
+  {
+    "query": "Calculate the difference between 76543 and 12345.",
+    "classification": [0, 0]
+  },
+  {
+    "query": "Make a note about the feedback from today's client meeting.",
+    "classification": [1, 0]
+  },
+  {
+    "query": "What will the weather be like in Austin next week?",
+    "classification": [2, 1]
+  },
+  { "query": "Translate this text into Arabic.", "classification": [3, 0] },
+  {
+    "query": "Prepare an email to the support team but don't send it yet.",
+    "classification": [4, 0]
+  },
+  {
+    "query": "Show me the unread notifications from this afternoon.",
+    "classification": [5, 1]
+  },
+  {
+    "query": "Add a new calendar event for my friend's birthday next Friday.",
+    "classification": [6, 0]
+  },
+  {
+    "query": "Multiply 23 by 45 and give me the result.",
+    "classification": [0, 2]
+  },
+  {
+    "query": "Remove the appointment with the accountant from my calendar.",
+    "classification": [6, 1]
+  },
+  {
+    "query": "Fetch the note titled 'Important Contacts'.",
+    "classification": [1, 2]
+  },
+  {
+    "query": "What's the weather forecast for the next 3 days in Rome?",
+    "classification": [2, 1]
+  },
+  { "query": "Compute 12 squared.", "classification": [0, 4] },
+  {
+    "query": "Check the air quality at 25.276987, 55.296249.",
+    "classification": [2, 2]
+  },
+  {
+    "query": "Update the note 'Weekly Goals' with the latest targets.",
+    "classification": [1, 4]
+  },
+  {
+    "query": "Notify the team about the new project guidelines.",
+    "classification": [5, 0]
+  },
+  {
+    "query": "List all events scheduled for next week in my calendar.",
+    "classification": [6, 3]
+  },
+  {
+    "query": "Delete the note named 'Old Addresses'.",
+    "classification": [1, 3]
+  },
+  {
+    "query": "Calculate the factorial of 9 for my assignment.",
+    "classification": [0, 7]
+  },
+  {
+    "query": "Send the email draft to the logistics team about the shipment.",
+    "classification": [4, 1]
+  },
+  {
+    "query": "Show me the last 5 emails from my service provider.",
+    "classification": [4, 2]
+  },
+  { "query": "Add 65432 and 87654.", "classification": [0, 0] },
+  {
+    "query": "Create a new note for the project timeline.",
+    "classification": [1, 0]
+  },
+  {
+    "query": "What's the 5-day weather forecast for Houston?",
+    "classification": [2, 1]
+  },
+  {
+    "query": "Translate the following text into Italian.",
+    "classification": [3, 0]
+  },
+  {
+    "query": "Draft an email to the operations team but don't send it yet.",
+    "classification": [4, 0]
+  },
+  {
+    "query": "Show me the unread notifications from yesterday morning.",
+    "classification": [5, 1]
+  },
+  {
+    "query": "Add the team lunch to my calendar for next Friday.",
+    "classification": [6, 0]
+  },
+  { "query": "What is 567 multiplied by 234?", "classification": [0, 2] },
+  {
+    "query": "Remove the strategy meeting from my calendar for next Monday.",
+    "classification": [6, 1]
+  },
+  { "query": "Find the note titled 'Daily Tasks'.", "classification": [1, 2] },
+  {
+    "query": "What's the weather forecast for the weekend in Seattle?",
+    "classification": [2, 1]
+  },
+  {
+    "query": "Create a new calendar event for my doctor's appointment on Monday.",
+    "classification": [6, 0]
+  },
+  {
+    "query": "Can you translate this English paragraph to Japanese?",
+    "classification": [3, 0]
+  },
+  {
+    "query": "What is the air quality in San Francisco right now?",
+    "classification": [2, 2]
+  },
+  {
+    "query": "Update the 'Workout Plan' note with the new exercises.",
+    "classification": [1, 4]
+  },
+  {
+    "query": "Send a team-wide notification about the office closure.",
+    "classification": [5, 0]
+  },
+  {
+    "query": "Show all my meetings scheduled for next week.",
+    "classification": [6, 3]
+  },
+  {
+    "query": "Delete the note named 'Unused Contacts'.",
+    "classification": [1, 3]
+  },
+  {
+    "query": "Calculate the factorial of 8 for my project.",
+    "classification": [0, 7]
+  },
+  {
+    "query": "Send the email draft to the customer service team regarding the issue.",
+    "classification": [4, 1]
+  },
+  {
+    "query": "Show me the last 6 emails from my bank.",
+    "classification": [4, 2]
+  },
+  { "query": "Add 54321 and 12345 together.", "classification": [0, 0] },
+  {
+    "query": "Make a quick note about today's meeting outcomes.",
+    "classification": [1, 0]
+  },
+  {
+    "query": "What's the 3-day weather forecast for Boston?",
+    "classification": [2, 1]
+  },
+  {
+    "query": "Translate the following phrase into Russian.",
+    "classification": [3, 0]
+  },
+  {
+    "query": "Draft an email to the finance department about the new budget, but don't send it yet.",
+    "classification": [4, 0]
+  },
+  {
+    "query": "Show me the notifications I missed from last night.",
+    "classification": [5, 1]
+  },
+  {
+    "query": "Add a new reminder for my lunch appointment next Tuesday.",
+    "classification": [6, 0]
+  },
+  {
+    "query": "Multiply 48 by 52 and tell me the result.",
+    "classification": [0, 2]
+  },
+  {
+    "query": "Remove the conference meeting from my calendar for next Wednesday.",
+    "classification": [6, 1]
+  },
+  {
+    "query": "Find the note titled 'Shopping List' in my notes.",
+    "classification": [1, 2]
+  },
+  {
+    "query": "What's the weather forecast for the next 10 days in Sydney?",
+    "classification": [2, 1]
+  },
+  { "query": "Compute the square of 9.", "classification": [0, 4] },
+  {
+    "query": "Check the air quality at 40.730610, -73.935242.",
+    "classification": [2, 2]
+  },
+  {
+    "query": "Update my 'Travel Itinerary' note with the new flight details.",
+    "classification": [1, 4]
+  },
+  {
+    "query": "Notify all users about the software update next week.",
+    "classification": [5, 0]
+  },
+  {
+    "query": "List all appointments in my calendar for the next month.",
+    "classification": [6, 3]
+  },
+  {
+    "query": "Permanently delete the note named 'Old Projects'.",
+    "classification": [1, 3]
+  },
+  {
+    "query": "Calculate the factorial of 6 for my homework.",
+    "classification": [0, 7]
+  },
+  {
+    "query": "Send the email draft to the marketing team about the campaign.",
+    "classification": [4, 1]
+  },
+  {
+    "query": "Show me the last 4 emails from my insurance company.",
+    "classification": [4, 2]
+  },
+  { "query": "Add 87654 and 43210.", "classification": [0, 0] },
+  {
+    "query": "Create a note for the new project details.",
+    "classification": [1, 0]
+  },
+  {
+    "query": "What will the weather be like in Las Vegas this weekend?",
+    "classification": [2, 1]
+  },
+  {
+    "query": "Translate this paragraph into Korean.",
+    "classification": [3, 0]
+  },
+  {
+    "query": "Draft an email to the IT department about the network issues but don't send it yet.",
+    "classification": [4, 0]
+  },
+  {
+    "query": "Show me the unread notifications from this evening.",
+    "classification": [5, 1]
+  },
+  {
+    "query": "Add the team building event to my calendar for next Thursday.",
+    "classification": [6, 0]
+  },
+  { "query": "What is 345 times 789?", "classification": [0, 2] },
+  {
+    "query": "Remove the gym session from my calendar for next Friday.",
+    "classification": [6, 1]
+  },
+  {
+    "query": "Fetch the note titled 'Project Ideas'.",
+    "classification": [1, 2]
+  },
+  {
+    "query": "What's the 7-day weather forecast for Beijing?",
+    "classification": [2, 1]
+  },
+  { "query": "Calculate the cube of 7.", "classification": [0, 4] },
+  {
+    "query": "Check the air quality at 34.052235, -118.243683.",
+    "classification": [2, 2]
+  },
+  {
+    "query": "Update my note titled 'Meeting Notes' with today's discussion.",
+    "classification": [1, 4]
+  },
+  {
+    "query": "Notify the staff about the policy changes.",
+    "classification": [5, 0]
+  },
+  {
+    "query": "Show all tasks for next month on my calendar.",
+    "classification": [6, 3]
+  },
+  {
+    "query": "Delete the 'Unused Ideas' note permanently.",
+    "classification": [1, 3]
+  },
+  {
+    "query": "Find the factorial of 4 for my math homework.",
+    "classification": [0, 7]
+  },
+  {
+    "query": "Send the email draft to the HR department about the new hires.",
+    "classification": [4, 1]
+  },
+  {
+    "query": "Show me the last 2 emails from my utility company.",
+    "classification": [4, 2]
+  },
+  {
+    "query": "Calculate the difference between 76543 and 12345.",
+    "classification": [0, 0]
+  },
+  {
+    "query": "Make a note about the feedback from today's client meeting.",
+    "classification": [1, 0]
+  },
+  {
+    "query": "What will the weather be like in Austin next week?",
+    "classification": [2, 1]
+  },
+  { "query": "Translate this text into Arabic.", "classification": [3, 0] },
+  {
+    "query": "Prepare an email to the support team but don't send it yet.",
+    "classification": [4, 0]
+  },
+  {
+    "query": "Show me the unread notifications from this afternoon.",
+    "classification": [5, 1]
+  },
+  {
+    "query": "Add a new calendar event for my friend's birthday next Friday.",
+    "classification": [6, 0]
+  },
+  {
+    "query": "Multiply 23 by 45 and give me the result.",
+    "classification": [0, 2]
+  },
+  {
+    "query": "Remove the appointment with the accountant from my calendar.",
+    "classification": [6, 1]
+  },
+  {
+    "query": "Fetch the note titled 'Important Contacts'.",
+    "classification": [1, 2]
+  },
+  {
+    "query": "What's the weather forecast for the next 3 days in Rome?",
+    "classification": [2, 1]
+  },
+  { "query": "Compute 12 squared.", "classification": [0, 4] },
+  {
+    "query": "Check the air quality at 25.276987, 55.296249.",
+    "classification": [2, 2]
+  },
+  {
+    "query": "Update the note 'Weekly Goals' with the latest targets.",
+    "classification": [1, 4]
+  },
+  {
+    "query": "Notify the team about the new project guidelines.",
+    "classification": [5, 0]
+  },
+  {
+    "query": "List all events scheduled for next week in my calendar.",
+    "classification": [6, 3]
+  },
+  {
+    "query": "Delete the note named 'Old Addresses'.",
+    "classification": [1, 3]
+  },
+  {
+    "query": "Calculate the factorial of 9 for my assignment.",
+    "classification": [0, 7]
+  },
+  {
+    "query": "Send the email draft to the logistics team about the shipment.",
+    "classification": [4, 1]
+  },
+  {
+    "query": "Show me the last 5 emails from my service provider.",
+    "classification": [4, 2]
+  },
+  { "query": "Add 65432 and 87654.", "classification": [0, 0] },
+  {
+    "query": "Create a new note for the project timeline.",
+    "classification": [1, 0]
+  },
+  {
+    "query": "What's the 5-day weather forecast for Houston?",
+    "classification": [2, 1]
+  },
+  {
+    "query": "Translate the following text into Italian.",
+    "classification": [3, 0]
+  },
+  {
+    "query": "Draft an email to the operations team but don't send it yet.",
+    "classification": [4, 0]
+  },
+  {
+    "query": "Show me the unread notifications from yesterday morning.",
+    "classification": [5, 1]
+  },
+  {
+    "query": "Add the team lunch to my calendar for next Friday.",
+    "classification": [6, 0]
+  },
+  { "query": "What is 567 multiplied by 234?", "classification": [0, 2] },
+  {
+    "query": "Remove the strategy meeting from my calendar for next Monday.",
+    "classification": [6, 1]
+  },
+  { "query": "Find the note titled 'Daily Tasks'.", "classification": [1, 2] },
+  {
+    "query": "What's the weather forecast for the weekend in Seattle?",
+    "classification": [2, 1]
+  },
+  {
+    "query": "Calculate 4 raised to the power of 3.",
+    "classification": [0, 4]
+  },
+  {
+    "query": "Check the air quality at 28.6139, 77.2090.",
+    "classification": [2, 2]
+  },
+  {
+    "query": "Update my 'Holiday Plans' note with the latest information.",
+    "classification": [1, 4]
+  },
+  {
+    "query": "Send a notification to all staff about the holiday party.",
+    "classification": [5, 0]
+  },
+  {
+    "query": "List all appointments scheduled for next month in my calendar.",
+    "classification": [6, 3]
+  },
+  {
+    "query": "Permanently delete the note titled 'Old Documents'.",
+    "classification": [1, 3]
+  },
+  {
+    "query": "Calculate the factorial of 10 for my science project.",
+    "classification": [0, 7]
+  },
+  {
+    "query": "Send the email draft to the customer relations team about the feedback.",
+    "classification": [4, 1]
+  },
+  {
+    "query": "Show me the last 6 emails from my gym.",
+    "classification": [4, 2]
+  },
+  { "query": "Find the sum of 78910 and 12345.", "classification": [0, 0] },
+  { "query": "Create a note for my travel plans.", "classification": [1, 0] },
+  {
+    "query": "What's the weather going to be like in Denver next week?",
+    "classification": [2, 1]
+  },
+  { "query": "Translate this text into Dutch.", "classification": [3, 0] },
+  {
+    "query": "Draft an email to the maintenance team but don't send it yet.",
+    "classification": [4, 0]
+  },
+  {
+    "query": "Show me the unread notifications from yesterday afternoon.",
+    "classification": [5, 1]
+  },
+  {
+    "query": "Add the training session to my calendar for next Wednesday.",
+    "classification": [6, 0]
+  },
+  { "query": "What is 678 multiplied by 123?", "classification": [0, 2] },
+  {
+    "query": "Remove the planning meeting from my calendar for next Thursday.",
+    "classification": [6, 1]
+  },
+  {
+    "query": "Fetch the note titled 'Work Schedule'.",
+    "classification": [1, 2]
+  },
+  {
+    "query": "What's the weather forecast for the next 4 days in Tokyo?",
+    "classification": [2, 1]
+  },
+  { "query": "Calculate 5 to the power of 4.", "classification": [0, 4] },
+  {
+    "query": "Check the air quality at 40.4168, -3.7038.",
+    "classification": [2, 2]
+  },
+  {
+    "query": "Update my note titled 'Shopping List' with the new items.",
+    "classification": [1, 4]
+  },
+  {
+    "query": "Notify the management team about the new policy changes.",
+    "classification": [5, 0]
+  },
+  {
+    "query": "Show all events for the upcoming week in my calendar.",
+    "classification": [6, 3]
+  },
+  {
+    "query": "Delete the note named 'Old Contacts' permanently.",
+    "classification": [1, 3]
+  },
+  {
+    "query": "Calculate the factorial of 3 for my math class.",
+    "classification": [0, 7]
+  },
+  {
+    "query": "Send the email draft to the finance team about the quarterly report.",
+    "classification": [4, 1]
+  },
+  {
+    "query": "Show me the last 7 emails from my internet provider.",
+    "classification": [4, 2]
+  },
+  { "query": "Add 23456 and 65432.", "classification": [0, 0] },
+  {
+    "query": "Create a new note for the project milestones.",
+    "classification": [1, 0]
+  },
+  {
+    "query": "What's the weather forecast for the next 2 days in Miami?",
+    "classification": [2, 1]
+  },
+  {
+    "query": "Translate the following paragraph into Swedish.",
+    "classification": [3, 0]
+  },
+  {
+    "query": "Draft an email to the event planning team but don't send it yet.",
+    "classification": [4, 0]
+  },
+  {
+    "query": "Show me the unread notifications from this morning.",
+    "classification": [5, 1]
+  },
+  {
+    "query": "Add a reminder for the team meeting next Tuesday.",
+    "classification": [6, 0]
+  },
+  {
+    "query": "Multiply 567 by 890 and show me the result.",
+    "classification": [0, 2]
+  },
+  {
+    "query": "Remove the lunch appointment from my calendar for next Friday.",
+    "classification": [6, 1]
+  },
+  { "query": "Find the note titled 'Budget Plan'.", "classification": [1, 2] },
+  {
+    "query": "What's the 5-day weather forecast for Paris?",
+    "classification": [2, 1]
+  },
+  { "query": "Calculate the cube of 10.", "classification": [0, 4] },
+  {
+    "query": "Check the air quality at 41.9028, 12.4964.",
+    "classification": [2, 2]
+  },
+  {
+    "query": "Update the 'Travel Plans' note with the new details.",
+    "classification": [1, 4]
+  },
+  {
+    "query": "Notify all users about the maintenance window next week.",
+    "classification": [5, 0]
+  },
+  {
+    "query": "List all events for the next two weeks in my calendar.",
+    "classification": [6, 3]
+  },
+  {
+    "query": "Delete the note named 'Unused Items' permanently.",
+    "classification": [1, 3]
+  },
+  {
+    "query": "Calculate the factorial of 2 for my assignment.",
+    "classification": [0, 7]
+  },
+  {
+    "query": "Send the email draft to the IT team about the system update.",
+    "classification": [4, 1]
+  },
+  {
+    "query": "Show me the last 8 emails from my bank.",
+    "classification": [4, 2]
+  },
+  { "query": "Add 43210 and 87654.", "classification": [0, 0] },
+  {
+    "query": "Create a note for the new product launch.",
+    "classification": [1, 0]
+  },
+  {
+    "query": "What will the weather be like in Chicago this weekend?",
+    "classification": [2, 1]
+  },
+  {
+    "query": "Translate this paragraph into Spanish.",
+    "classification": [3, 0]
+  },
+  {
+    "query": "Draft an email to the customer support team but don't send it yet.",
+    "classification": [4, 0]
+  },
+  {
+    "query": "Show me the unread notifications from yesterday evening.",
+    "classification": [5, 1]
+  },
+  {
+    "query": "Add the doctor's appointment to my calendar for next Monday.",
+    "classification": [6, 0]
+  },
+  { "query": "What is 678 times 234?", "classification": [0, 2] },
+  {
+    "query": "Remove the dentist appointment from my calendar for next Friday.",
+    "classification": [6, 1]
+  },
+  {
+    "query": "Fetch the note titled 'Daily Reminders'.",
+    "classification": [1, 2]
+  },
+  {
+    "query": "What's the weather forecast for the next 7 days in Berlin?",
+    "classification": [2, 1]
+  },
+  { "query": "Calculate 6 to the power of 3.", "classification": [0, 4] },
+  {
+    "query": "Check the air quality at 34.0522, -118.2437.",
+    "classification": [2, 2]
+  },
+  {
+    "query": "Update my note titled 'Meeting Agenda' with today's topics.",
+    "classification": [1, 4]
+  },
+  {
+    "query": "Notify the operations team about the new procedures.",
+    "classification": [5, 0]
+  },
+  {
+    "query": "Show all tasks scheduled for next month in my calendar.",
+    "classification": [6, 3]
+  },
+  {
+    "query": "Delete the 'Temporary Notes' permanently.",
+    "classification": [1, 3]
+  },
+  {
+    "query": "Find the factorial of 11 for my science class.",
+    "classification": [0, 7]
+  },
+  {
+    "query": "Send the email draft to the legal team about the new contract.",
+    "classification": [4, 1]
+  },
+  {
+    "query": "Show me the last 9 emails from my university.",
+    "classification": [4, 2]
+  },
+  {
+    "query": "Calculate the difference between 43210 and 12345.",
+    "classification": [0, 0]
+  },
+  {
+    "query": "Create a note for the new marketing strategy.",
+    "classification": [1, 0]
+  },
+  {
+    "query": "What's the weather forecast for the next 5 days in New York?",
+    "classification": [2, 1]
+  },
+  { "query": "Translate this text into Chinese.", "classification": [3, 0] },
+  {
+    "query": "Draft an email to the sales team about the new product, but don't send it yet.",
+    "classification": [4, 0]
+  },
+  {
+    "query": "Show me the unread notifications from yesterday afternoon.",
+    "classification": [5, 1]
+  },
+  {
+    "query": "Add the meeting with the client to my calendar for next Wednesday.",
+    "classification": [6, 0]
+  },
+  { "query": "What is 789 times 123?", "classification": [0, 2] },
+  {
+    "query": "Remove the conference call from my calendar for next Tuesday.",
+    "classification": [6, 1]
+  },
+  {
+    "query": "Find the note titled 'Weekly Review'.",
+    "classification": [1, 2]
+  },
+  {
+    "query": "What's the weather outlook for the next 3 days in San Francisco?",
+    "classification": [2, 1]
+  },
+  { "query": "Calculate 7 to the power of 4.", "classification": [0, 4] },
+  {
+    "query": "Check the air quality at 40.7128, -74.0060.",
+    "classification": [2, 2]
+  },
+  {
+    "query": "Update the 'Project Plan' note with the new milestones.",
+    "classification": [1, 4]
+  },
+  {
+    "query": "Notify the entire team about the new schedule.",
+    "classification": [5, 0]
+  },
+  {
+    "query": "List all tasks due next week in my calendar.",
+    "classification": [6, 3]
+  },
+  {
+    "query": "Delete the note titled 'Old Notes' permanently.",
+    "classification": [1, 3]
+  },
+  {
+    "query": "Calculate the factorial of 7 for my homework.",
+    "classification": [0, 7]
+  },
+  {
+    "query": "Send the email draft to the procurement team about the new order.",
+    "classification": [4, 1]
+  },
+  {
+    "query": "Show me the last 10 emails from my bank.",
+    "classification": [4, 2]
+  },
+  { "query": "Add 65432 and 78910.", "classification": [0, 0] },
+  {
+    "query": "Create a note for the new project deadlines.",
+    "classification": [1, 0]
+  },
+  {
+    "query": "What's the 3-day weather forecast for Los Angeles?",
+    "classification": [2, 1]
+  },
+  {
+    "query": "Translate the following sentence into Japanese.",
+    "classification": [3, 0]
+  },
+  {
+    "query": "Draft an email to the development team about the new feature, but don't send it yet.",
+    "classification": [4, 0]
+  },
+  {
+    "query": "Show me the unread notifications from last night.",
+    "classification": [5, 1]
+  },
+  {
+    "query": "Add the strategy session to my calendar for next Friday.",
+    "classification": [6, 0]
+  },
+  { "query": "What is 345 multiplied by 789?", "classification": [0, 2] },
+  {
+    "query": "Remove the team meeting from my calendar for next Monday.",
+    "classification": [6, 1]
+  },
+  {
+    "query": "Fetch the note titled 'Client Feedback'.",
+    "classification": [1, 2]
+  },
+  {
+    "query": "What's the weather forecast for the next 7 days in London?",
+    "classification": [2, 1]
+  },
+  { "query": "Calculate 8 to the power of 2.", "classification": [0, 4] },
+  {
+    "query": "Check the air quality at 48.8566, 2.3522.",
+    "classification": [2, 2]
+  },
+  {
+    "query": "Update my note titled 'Weekly Report' with the latest data.",
+    "classification": [1, 4]
+  },
+  {
+    "query": "Notify all employees about the new company policies.",
+    "classification": [5, 0]
+  },
+  {
+    "query": "Show all events scheduled for next month in my calendar.",
+    "classification": [6, 3]
+  },
+  {
+    "query": "Delete the 'Old Plans' note permanently.",
+    "classification": [1, 3]
+  },
+  {
+    "query": "Find the factorial of 5 for my assignment.",
+    "classification": [0, 7]
+  },
+  {
+    "query": "Send the email draft to the accounting team about the new budget.",
+    "classification": [4, 1]
+  },
+  {
+    "query": "Show me the last 4 emails from my health insurance provider.",
+    "classification": [4, 2]
+  },
+  { "query": "Add 87654 and 23456.", "classification": [0, 0] },
+  {
+    "query": "Create a new note for the upcoming event details.",
+    "classification": [1, 0]
+  },
+  {
+    "query": "What's the weather forecast for the next 2 days in Seattle?",
+    "classification": [2, 1]
+  },
+  {
+    "query": "Translate this paragraph into French.",
+    "classification": [3, 0]
+  },
+  {
+    "query": "Draft an email to the HR team about the new hire, but don't send it yet.",
+    "classification": [4, 0]
+  },
+  {
+    "query": "Show me the unread notifications from this morning.",
+    "classification": [5, 1]
+  },
+  {
+    "query": "Add the quarterly review meeting to my calendar for next Thursday.",
+    "classification": [6, 0]
+  },
+  {
+    "query": "Multiply 234 by 567 and show me the result.",
+    "classification": [0, 2]
+  },
+  {
+    "query": "Remove the meeting with the vendor from my calendar.",
+    "classification": [6, 1]
+  },
+  {
+    "query": "Find the note titled 'Project Outline'.",
+    "classification": [1, 2]
+  },
+  {
+    "query": "What's the weather outlook for the next week in San Diego?",
+    "classification": [2, 1]
+  },
+  { "query": "Calculate 9 to the power of 3.", "classification": [0, 4] },
+  {
+    "query": "Check the air quality at 51.5074, -0.1278.",
+    "classification": [2, 2]
+  },
+  {
+    "query": "Update my note titled 'Travel Itinerary' with the latest information.",
+    "classification": [1, 4]
+  },
+  {
+    "query": "Notify the marketing team about the new campaign.",
+    "classification": [5, 0]
+  },
+  {
+    "query": "Show all tasks for next month in my calendar.",
+    "classification": [6, 3]
+  },
+  {
+    "query": "Delete the note named 'Old Ideas' permanently.",
+    "classification": [1, 3]
+  },
+  {
+    "query": "Calculate the factorial of 12 for my project.",
+    "classification": [0, 7]
+  },
+  {
+    "query": "Send the email draft to the operations team about the new workflow.",
+    "classification": [4, 1]
+  },
+  {
+    "query": "Show me the last 3 emails from my cable provider.",
+    "classification": [4, 2]
+  },
+  { "query": "Add 54321 and 98765.", "classification": [0, 0] },
+  {
+    "query": "Create a note for the new meeting agenda.",
+    "classification": [1, 0]
+  },
+  {
+    "query": "What's the weather forecast for the next 5 days in Phoenix?",
+    "classification": [2, 1]
+  },
+  { "query": "Translate this text into Portuguese.", "classification": [3, 0] },
+  {
+    "query": "Draft an email to the client about the project update, but don't send it yet.",
+    "classification": [4, 0]
+  },
+  {
+    "query": "Show me the unread notifications from last afternoon.",
+    "classification": [5, 1]
+  },
+  {
+    "query": "Add the business trip to my calendar for next Tuesday.",
+    "classification": [6, 0]
+  },
+  { "query": "What is 456 multiplied by 789?", "classification": [0, 2] },
+  {
+    "query": "Remove the call with the supplier from my calendar.",
+    "classification": [6, 1]
+  },
+  { "query": "Fetch the note titled 'Daily Goals'.", "classification": [1, 2] },
+  {
+    "query": "What's the weather forecast for the next week in Chicago?",
+    "classification": [2, 1]
+  },
+  { "query": "Calculate 10 to the power of 2.", "classification": [0, 4] },
+  {
+    "query": "Check the air quality at 35.6895, 139.6917.",
+    "classification": [2, 2]
+  },
+  {
+    "query": "Update the 'Project Goals' note with the new objectives.",
+    "classification": [1, 4]
+  },
+  {
+    "query": "Notify all team members about the upcoming deadline.",
+    "classification": [5, 0]
+  },
+  {
+    "query": "Show all events for the next month in my calendar.",
+    "classification": [6, 3]
+  },
+  {
+    "query": "Delete the note titled 'Unused Plans' permanently.",
+    "classification": [1, 3]
+  },
+  {
+    "query": "Calculate the factorial of 4 for my homework.",
+    "classification": [0, 7]
+  },
+  {
+    "query": "Send the email draft to the admin team about the new procedures.",
+    "classification": [4, 1]
+  },
+  {
+    "query": "Show me the last 2 emails from my energy provider.",
+    "classification": [4, 2]
+  },
+  {
+    "query": "Calculate the difference between 98765 and 65432.",
+    "classification": [0, 0]
+  },
+  {
+    "query": "Create a note for the conference details.",
+    "classification": [1, 0]
+  },
+  {
+    "query": "What's the 7-day weather forecast for New York?",
+    "classification": [2, 1]
+  },
+  {
+    "query": "Translate the following text into Russian.",
+    "classification": [3, 0]
+  },
+  {
+    "query": "Draft an email to the support team about the issue, but don't send it yet.",
+    "classification": [4, 0]
+  },
+  {
+    "query": "Show me the unread notifications from last night.",
+    "classification": [5, 1]
+  },
+  {
+    "query": "Add the interview to my calendar for next Wednesday.",
+    "classification": [6, 0]
+  },
+  { "query": "What is 567 times 234?", "classification": [0, 2] },
+  {
+    "query": "Remove the strategy session from my calendar for next Friday.",
+    "classification": [6, 1]
+  },
+  {
+    "query": "Fetch the note titled 'Project Plan'.",
+    "classification": [1, 2]
+  },
+  {
+    "query": "What's the weather forecast for the next 5 days in Boston?",
+    "classification": [2, 1]
+  },
+  { "query": "Calculate 11 to the power of 2.", "classification": [0, 4] },
+  {
+    "query": "Check the air quality at 37.7749, -122.4194.",
+    "classification": [2, 2]
+  },
+  {
+    "query": "Update the 'Task List' note with the new items.",
+    "classification": [1, 4]
+  },
+  {
+    "query": "Notify the management about the new project timeline.",
+    "classification": [5, 0]
+  },
+  {
+    "query": "Show all appointments for the next week in my calendar.",
+    "classification": [6, 3]
+  },
+  {
+    "query": "Delete the note named 'Old Documents' permanently.",
+    "classification": [1, 3]
+  },
+  {
+    "query": "Find the factorial of 6 for my math assignment.",
+    "classification": [0, 7]
+  },
+  {
+    "query": "Send the email draft to the events team about the upcoming event.",
+    "classification": [4, 1]
+  },
+  {
+    "query": "Show me the last 8 emails from my university.",
+    "classification": [4, 2]
+  },
+  { "query": "Add 54321 and 87654.", "classification": [0, 0] },
+  {
+    "query": "Create a note for the new project overview.",
+    "classification": [1, 0]
+  },
+  {
+    "query": "What's the weather forecast for the next week in Miami?",
+    "classification": [2, 1]
+  },
+  {
+    "query": "Translate this paragraph into Italian.",
+    "classification": [3, 0]
+  },
+  {
+    "query": "Draft an email to the client about the recent update, but don't send it yet.",
+    "classification": [4, 0]
+  },
+  {
+    "query": "Show me the unread notifications from this evening.",
+    "classification": [5, 1]
+  },
+  {
+    "query": "Add the new task to my calendar for next Monday.",
+    "classification": [6, 0]
+  },
+  {
+    "query": "Multiply 678 by 345 and show me the result.",
+    "classification": [0, 2]
+  },
+  {
+    "query": "Remove the lunch meeting from my calendar for next Thursday.",
+    "classification": [6, 1]
+  },
+  {
+    "query": "Find the note titled 'Event Planning'.",
+    "classification": [1, 2]
+  },
+  {
+    "query": "What's the 10-day weather forecast for Los Angeles?",
+    "classification": [2, 1]
+  },
+  { "query": "Calculate 12 to the power of 2.", "classification": [0, 4] },
+  {
+    "query": "Check the air quality at 40.4168, -3.7038.",
+    "classification": [2, 2]
+  },
+  {
+    "query": "Update the 'Daily Schedule' note with the new tasks.",
+    "classification": [1, 4]
+  },
+  {
+    "query": "Notify the entire team about the policy update.",
+    "classification": [5, 0]
+  },
+  {
+    "query": "Show all events for the next two weeks in my calendar.",
+    "classification": [6, 3]
+  },
+  {
+    "query": "Delete the note titled 'Old Records' permanently.",
+    "classification": [1, 3]
+  },
+  {
+    "query": "Calculate the factorial of 8 for my science project.",
+    "classification": [0, 7]
+  },
+  {
+    "query": "Send the email draft to the HR department about the new hires.",
+    "classification": [4, 1]
+  },
+  {
+    "query": "Show me the last 6 emails from my utility provider.",
+    "classification": [4, 2]
+  },
+  { "query": "Add 78910 and 65432.", "classification": [0, 0] },
+  {
+    "query": "Create a note for the team meeting agenda.",
+    "classification": [1, 0]
+  },
+  {
+    "query": "What's the weather outlook for the next week in San Francisco?",
+    "classification": [2, 1]
+  },
+  { "query": "Translate this sentence into German.", "classification": [3, 0] },
+  {
+    "query": "Draft an email to the project team about the new deadline, but don't send it yet.",
+    "classification": [4, 0]
+  },
+  {
+    "query": "Show me the unread notifications from this afternoon.",
+    "classification": [5, 1]
+  },
+  {
+    "query": "Add the client call to my calendar for next Tuesday.",
+    "classification": [6, 0]
+  },
+  { "query": "What is 345 times 678?", "classification": [0, 2] },
+  {
+    "query": "Remove the team briefing from my calendar for next Wednesday.",
+    "classification": [6, 1]
+  },
+  {
+    "query": "Fetch the note titled 'Project Notes'.",
+    "classification": [1, 2]
+  },
+  {
+    "query": "What's the weather forecast for the next 10 days in Seattle?",
+    "classification": [2, 1]
+  },
+  { "query": "Calculate 13 to the power of 2.", "classification": [0, 4] },
+  {
+    "query": "Check the air quality at 34.0522, -118.2437.",
+    "classification": [2, 2]
+  },
+  {
+    "query": "Update the 'Weekly Goals' note with the latest objectives.",
+    "classification": [1, 4]
+  },
+  {
+    "query": "Notify the entire department about the new guidelines.",
+    "classification": [5, 0]
+  },
+  {
+    "query": "Show all appointments for the next two weeks in my calendar.",
+    "classification": [6, 3]
+  },
+  {
+    "query": "Delete the note named 'Old Lists' permanently.",
+    "classification": [1, 3]
+  },
+  {
+    "query": "Calculate the factorial of 7 for my science homework.",
+    "classification": [0, 7]
+  },
+  {
+    "query": "Send the email draft to the finance team about the budget.",
+    "classification": [4, 1]
+  },
+  {
+    "query": "Show me the last 5 emails from my mobile provider.",
+    "classification": [4, 2]
+  },
+  {
+    "query": "Create a new calendar event for my doctor's appointment on Monday.",
+    "classification": [6, 0]
+  },
+  {
+    "query": "Can you translate this English paragraph to Japanese?",
+    "classification": [3, 0]
+  },
+  {
+    "query": "What is the air quality in San Francisco right now?",
+    "classification": [2, 2]
+  },
+  {
+    "query": "Update the 'Workout Plan' note with the new exercises.",
+    "classification": [1, 4]
+  },
+  {
+    "query": "Send a team-wide notification about the office closure.",
+    "classification": [5, 0]
+  },
+  {
+    "query": "Show all my meetings scheduled for next week.",
+    "classification": [6, 3]
+  },
+  {
+    "query": "Delete the note named 'Unused Contacts'.",
+    "classification": [1, 3]
+  },
+  {
+    "query": "Calculate the factorial of 8 for my project.",
+    "classification": [0, 7]
+  },
+  {
+    "query": "Send the email draft to the customer service team regarding the issue.",
+    "classification": [4, 1]
+  },
+  {
+    "query": "Show me the last 6 emails from my bank.",
+    "classification": [4, 2]
+  },
+  { "query": "Add 54321 and 12345 together.", "classification": [0, 0] },
+  {
+    "query": "Make a quick note about today's meeting outcomes.",
+    "classification": [1, 0]
+  },
+  {
+    "query": "What's the 3-day weather forecast for Boston?",
+    "classification": [2, 1]
+  },
+  {
+    "query": "Translate the following phrase into Russian.",
+    "classification": [3, 0]
+  },
+  {
+    "query": "Draft an email to the finance department about the new budget, but don't send it yet.",
+    "classification": [4, 0]
+  },
+  {
+    "query": "Show me the notifications I missed from last night.",
+    "classification": [5, 1]
+  },
+  {
+    "query": "Add a new reminder for my lunch appointment next Tuesday.",
+    "classification": [6, 0]
+  },
+  {
+    "query": "Multiply 48 by 52 and tell me the result.",
+    "classification": [0, 2]
+  },
+  {
+    "query": "Remove the conference meeting from my calendar for next Wednesday.",
+    "classification": [6, 1]
+  },
+  {
+    "query": "Find the note titled 'Shopping List' in my notes.",
+    "classification": [1, 2]
+  },
+  {
+    "query": "What's the weather forecast for the next 10 days in Sydney?",
+    "classification": [2, 1]
+  },
+  { "query": "Compute the square of 9.", "classification": [0, 4] },
+  {
+    "query": "Check the air quality at 40.730610, -73.935242.",
+    "classification": [2, 2]
+  },
+  {
+    "query": "Update my 'Travel Itinerary' note with the new flight details.",
+    "classification": [1, 4]
+  },
+  {
+    "query": "Notify all users about the software update next week.",
+    "classification": [5, 0]
+  },
+  {
+    "query": "List all appointments in my calendar for the next month.",
+    "classification": [6, 3]
+  },
+  {
+    "query": "Permanently delete the note named 'Old Projects'.",
+    "classification": [1, 3]
+  },
+  {
+    "query": "Calculate the factorial of 6 for my homework.",
+    "classification": [0, 7]
+  },
+  {
+    "query": "Send the email draft to the marketing team about the campaign.",
+    "classification": [4, 1]
+  },
+  {
+    "query": "Show me the last 4 emails from my insurance company.",
+    "classification": [4, 2]
+  },
+  { "query": "Add 87654 and 43210.", "classification": [0, 0] },
+  {
+    "query": "Create a note for the new project details.",
+    "classification": [1, 0]
+  },
+  {
+    "query": "What will the weather be like in Las Vegas this weekend?",
+    "classification": [2, 1]
+  },
+  {
+    "query": "Translate this paragraph into Korean.",
+    "classification": [3, 0]
+  },
+  {
+    "query": "Draft an email to the IT department about the network issues but don't send it yet.",
+    "classification": [4, 0]
+  },
+  {
+    "query": "Show me the unread notifications from this evening.",
+    "classification": [5, 1]
+  },
+  {
+    "query": "Add the team building event to my calendar for next Thursday.",
+    "classification": [6, 0]
+  },
+  { "query": "What is 345 times 789?", "classification": [0, 2] },
+  {
+    "query": "Remove the gym session from my calendar for next Friday.",
+    "classification": [6, 1]
+  },
+  {
+    "query": "Fetch the note titled 'Project Ideas'.",
+    "classification": [1, 2]
+  },
+  {
+    "query": "What's the 7-day weather forecast for Beijing?",
+    "classification": [2, 1]
+  },
+  { "query": "Calculate the cube of 7.", "classification": [0, 4] },
+  {
+    "query": "Check the air quality at 34.052235, -118.243683.",
+    "classification": [2, 2]
+  },
+  {
+    "query": "Update my note titled 'Meeting Notes' with today's discussion.",
+    "classification": [1, 4]
+  },
+  {
+    "query": "Notify the staff about the policy changes.",
+    "classification": [5, 0]
+  },
+  {
+    "query": "Show all tasks for next month on my calendar.",
+    "classification": [6, 3]
+  },
+  {
+    "query": "Delete the 'Unused Ideas' note permanently.",
+    "classification": [1, 3]
+  },
+  {
+    "query": "Find the factorial of 4 for my math homework.",
+    "classification": [0, 7]
+  },
+  {
+    "query": "Send the email draft to the HR department about the new hires.",
+    "classification": [4, 1]
+  },
+  {
+    "query": "Show me the last 2 emails from my utility company.",
+    "classification": [4, 2]
+  },
+  {
+    "query": "Calculate the difference between 76543 and 12345.",
+    "classification": [0, 0]
+  },
+  {
+    "query": "Make a note about the feedback from today's client meeting.",
+    "classification": [1, 0]
+  },
+  {
+    "query": "What will the weather be like in Austin next week?",
+    "classification": [2, 1]
+  },
+  { "query": "Translate this text into Arabic.", "classification": [3, 0] },
+  {
+    "query": "Prepare an email to the support team but don't send it yet.",
+    "classification": [4, 0]
+  },
+  {
+    "query": "Show me the unread notifications from this afternoon.",
+    "classification": [5, 1]
+  },
+  {
+    "query": "Add a new calendar event for my friend's birthday next Friday.",
+    "classification": [6, 0]
+  },
+  {
+    "query": "Multiply 23 by 45 and give me the result.",
+    "classification": [0, 2]
+  },
+  {
+    "query": "Remove the appointment with the accountant from my calendar.",
+    "classification": [6, 1]
+  },
+  {
+    "query": "Fetch the note titled 'Important Contacts'.",
+    "classification": [1, 2]
+  },
+  {
+    "query": "What's the weather forecast for the next 3 days in Rome?",
+    "classification": [2, 1]
+  },
+  { "query": "Compute 12 squared.", "classification": [0, 4] },
+  {
+    "query": "Check the air quality at 25.276987, 55.296249.",
+    "classification": [2, 2]
+  },
+  {
+    "query": "Update the note 'Weekly Goals' with the latest targets.",
+    "classification": [1, 4]
+  },
+  {
+    "query": "Notify the team about the new project guidelines.",
+    "classification": [5, 0]
+  },
+  {
+    "query": "List all events scheduled for next week in my calendar.",
+    "classification": [6, 3]
+  },
+  {
+    "query": "Delete the note named 'Old Addresses'.",
+    "classification": [1, 3]
+  },
+  {
+    "query": "Calculate the factorial of 9 for my assignment.",
+    "classification": [0, 7]
+  },
+  {
+    "query": "Send the email draft to the logistics team about the shipment.",
+    "classification": [4, 1]
+  },
+  {
+    "query": "Show me the last 5 emails from my service provider.",
+    "classification": [4, 2]
+  },
+  { "query": "Add 65432 and 87654.", "classification": [0, 0] },
+  {
+    "query": "Create a new note for the project timeline.",
+    "classification": [1, 0]
+  },
+  {
+    "query": "What's the 5-day weather forecast for Houston?",
+    "classification": [2, 1]
+  },
+  {
+    "query": "Translate the following text into Italian.",
+    "classification": [3, 0]
+  },
+  {
+    "query": "Draft an email to the operations team but don't send it yet.",
+    "classification": [4, 0]
+  },
+  {
+    "query": "Show me the unread notifications from yesterday morning.",
+    "classification": [5, 1]
+  },
+  {
+    "query": "Add the team lunch to my calendar for next Friday.",
+    "classification": [6, 0]
+  },
+  { "query": "What is 567 multiplied by 234?", "classification": [0, 2] },
+  {
+    "query": "Remove the strategy meeting from my calendar for next Monday.",
+    "classification": [6, 1]
+  },
+  { "query": "Find the note titled 'Daily Tasks'.", "classification": [1, 2] },
+  {
+    "query": "What's the weather forecast for the weekend in Seattle?",
+    "classification": [2, 1]
+  },
+  {
+    "query": "Calculate 4 raised to the power of 3.",
+    "classification": [0, 4]
+  },
+  {
+    "query": "Check the air quality at 28.6139, 77.2090.",
+    "classification": [2, 2]
+  },
+  {
+    "query": "Update my 'Holiday Plans' note with the latest information.",
+    "classification": [1, 4]
+  },
+  {
+    "query": "Send a notification to all staff about the holiday party.",
+    "classification": [5, 0]
+  },
+  {
+    "query": "List all appointments scheduled for next month in my calendar.",
+    "classification": [6, 3]
+  },
+  {
+    "query": "Permanently delete the note titled 'Old Documents'.",
+    "classification": [1, 3]
+  },
+  {
+    "query": "Calculate the factorial of 10 for my science project.",
+    "classification": [0, 7]
+  },
+  {
+    "query": "Send the email draft to the customer relations team about the feedback.",
+    "classification": [4, 1]
+  },
+  {
+    "query": "Show me the last 6 emails from my gym.",
+    "classification": [4, 2]
+  },
+  { "query": "Find the sum of 78910 and 12345.", "classification": [0, 0] },
+  { "query": "Create a note for my travel plans.", "classification": [1, 0] },
+  {
+    "query": "What's the weather going to be like in Denver next week?",
+    "classification": [2, 1]
+  },
+  { "query": "Translate this text into Dutch.", "classification": [3, 0] },
+  {
+    "query": "Draft an email to the maintenance team but don't send it yet.",
+    "classification": [4, 0]
+  },
+  {
+    "query": "Show me the unread notifications from yesterday afternoon.",
+    "classification": [5, 1]
+  },
+  {
+    "query": "Add the training session to my calendar for next Wednesday.",
+    "classification": [6, 0]
+  },
+  { "query": "What is 678 multiplied by 123?", "classification": [0, 2] },
+  {
+    "query": "Remove the planning meeting from my calendar for next Thursday.",
+    "classification": [6, 1]
+  },
+  {
+    "query": "Fetch the note titled 'Work Schedule'.",
+    "classification": [1, 2]
+  },
+  {
+    "query": "What's the weather forecast for the next 4 days in Tokyo?",
+    "classification": [2, 1]
+  },
+  { "query": "Calculate 5 to the power of 4.", "classification": [0, 4] },
+  {
+    "query": "Check the air quality at 40.4168, -3.7038.",
+    "classification": [2, 2]
+  },
+  {
+    "query": "Update my note titled 'Shopping List' with the new items.",
+    "classification": [1, 4]
+  },
+  {
+    "query": "Notify the management team about the new policy changes.",
+    "classification": [5, 0]
+  },
+  {
+    "query": "Show all events for the upcoming week in my calendar.",
+    "classification": [6, 3]
+  },
+  {
+    "query": "Delete the note named 'Old Contacts' permanently.",
+    "classification": [1, 3]
+  },
+  {
+    "query": "Calculate the factorial of 3 for my math class.",
+    "classification": [0, 7]
+  },
+  {
+    "query": "Send the email draft to the finance team about the quarterly report.",
+    "classification": [4, 1]
+  },
+  {
+    "query": "Show me the last 7 emails from my internet provider.",
+    "classification": [4, 2]
+  },
+  { "query": "Add 23456 and 65432.", "classification": [0, 0] },
+  {
+    "query": "Create a new note for the project milestones.",
+    "classification": [1, 0]
+  },
+  {
+    "query": "What's the weather forecast for the next 2 days in Miami?",
+    "classification": [2, 1]
+  },
+  {
+    "query": "Translate the following paragraph into Swedish.",
+    "classification": [3, 0]
+  },
+  {
+    "query": "Draft an email to the event planning team but don't send it yet.",
+    "classification": [4, 0]
+  },
+  {
+    "query": "Show me the unread notifications from this morning.",
+    "classification": [5, 1]
+  },
+  {
+    "query": "Add a reminder for the team meeting next Tuesday.",
+    "classification": [6, 0]
+  },
+  {
+    "query": "Multiply 567 by 890 and show me the result.",
+    "classification": [0, 2]
+  },
+  {
+    "query": "Remove the lunch appointment from my calendar for next Friday.",
+    "classification": [6, 1]
+  },
+  { "query": "Find the note titled 'Budget Plan'.", "classification": [1, 2] },
+  {
+    "query": "What's the 5-day weather forecast for Paris?",
+    "classification": [2, 1]
+  },
+  { "query": "Calculate the cube of 10.", "classification": [0, 4] },
+  {
+    "query": "Check the air quality at 41.9028, 12.4964.",
+    "classification": [2, 2]
+  },
+  {
+    "query": "Update the 'Travel Plans' note with the new details.",
+    "classification": [1, 4]
+  },
+  {
+    "query": "Notify all users about the maintenance window next week.",
+    "classification": [5, 0]
+  },
+  {
+    "query": "List all events for the next two weeks in my calendar.",
+    "classification": [6, 3]
+  },
+  {
+    "query": "Delete the note named 'Unused Items' permanently.",
+    "classification": [1, 3]
+  },
+  {
+    "query": "Calculate the factorial of 2 for my assignment.",
+    "classification": [0, 7]
+  },
+  {
+    "query": "Send the email draft to the IT team about the system update.",
+    "classification": [4, 1]
+  },
+  {
+    "query": "Show me the last 8 emails from my bank.",
+    "classification": [4, 2]
+  },
+  { "query": "Add 43210 and 87654.", "classification": [0, 0] },
+  {
+    "query": "Create a note for the new product launch.",
+    "classification": [1, 0]
+  },
+  {
+    "query": "What will the weather be like in Chicago this weekend?",
+    "classification": [2, 1]
+  },
+  {
+    "query": "Translate this paragraph into Spanish.",
+    "classification": [3, 0]
+  },
+  {
+    "query": "Draft an email to the customer support team but don't send it yet.",
+    "classification": [4, 0]
+  },
+  {
+    "query": "Show me the unread notifications from yesterday evening.",
+    "classification": [5, 1]
+  },
+  {
+    "query": "Notify the team about the new guidelines.",
+    "classification": [5, 0]
+  },
+  {
+    "query": "Show all appointments for next month in my calendar.",
+    "classification": [6, 3]
+  },
+  {
+    "query": "Delete the note named 'Old Documents' permanently.",
+    "classification": [1, 3]
+  },
+  {
+    "query": "Calculate the factorial of 3 for my science class.",
+    "classification": [0, 7]
+  },
+  {
+    "query": "Send the email draft to the HR department regarding the new policy.",
+    "classification": [4, 1]
+  },
+  {
+    "query": "Show me the last 5 emails from my bank.",
+    "classification": [4, 2]
+  },
+  { "query": "Add 65432 and 12345.", "classification": [0, 0] },
+  {
+    "query": "Create a note for the upcoming seminar.",
+    "classification": [1, 0]
+  },
+  {
+    "query": "What's the weather forecast for the next week in Dallas?",
+    "classification": [2, 1]
+  },
+  {
+    "query": "Translate this paragraph into French.",
+    "classification": [3, 0]
+  },
+  {
+    "query": "Draft an email to the IT support team but don't send it yet.",
+    "classification": [4, 0]
+  },
+  {
+    "query": "Show me the unread notifications from this morning.",
+    "classification": [5, 1]
+  },
+  {
+    "query": "Add the project deadline to my calendar for next Thursday.",
+    "classification": [6, 0]
+  },
+  { "query": "What is 789 multiplied by 123?", "classification": [0, 2] },
+  {
+    "query": "Remove the gym session from my calendar for next Friday.",
+    "classification": [6, 1]
+  },
+  {
+    "query": "Fetch the note titled 'Vacation Plans'.",
+    "classification": [1, 2]
+  },
+  {
+    "query": "What's the weather outlook for the next 5 days in Paris?",
+    "classification": [2, 1]
+  },
+  {
+    "query": "Calculate the power of 4 raised to 2.",
+    "classification": [0, 4]
+  },
+  {
+    "query": "Check the air quality at 51.5074, -0.1278.",
+    "classification": [2, 2]
+  },
+  {
+    "query": "Update the note 'Weekly Schedule' with the new tasks.",
+    "classification": [1, 4]
+  },
+  {
+    "query": "Notify all staff about the upcoming training session.",
+    "classification": [5, 0]
+  },
+  {
+    "query": "Show all events for the next month in my calendar.",
+    "classification": [6, 3]
+  },
+  {
+    "query": "Delete the note named 'Old Tasks' permanently.",
+    "classification": [1, 3]
+  },
+  {
+    "query": "Find the factorial of 10 for my homework.",
+    "classification": [0, 7]
+  },
+  {
+    "query": "Send the email draft to the marketing team regarding the new campaign.",
+    "classification": [4, 1]
+  },
+  {
+    "query": "Show me the last 3 emails from my university.",
+    "classification": [4, 2]
+  },
+  { "query": "Add 43210 and 87654.", "classification": [0, 0] },
+  {
+    "query": "Create a note for the conference call agenda.",
+    "classification": [1, 0]
+  },
+  {
+    "query": "What's the 7-day weather forecast for Berlin?",
+    "classification": [2, 1]
+  },
+  {
+    "query": "Translate the following text into Italian.",
+    "classification": [3, 0]
+  },
+  {
+    "query": "Draft an email to the operations team but don't send it yet.",
+    "classification": [4, 0]
+  },
+  {
+    "query": "Show me the unread notifications from last night.",
+    "classification": [5, 1]
+  },
+  {
+    "query": "Add a reminder for the staff meeting next Wednesday.",
+    "classification": [6, 0]
+  },
+  {
+    "query": "Multiply 123 by 789 and show me the result.",
+    "classification": [0, 2]
+  },
+  {
+    "query": "Remove the team meeting from my calendar for next Monday.",
+    "classification": [6, 1]
+  },
+  {
+    "query": "Fetch the note titled 'Client Information'.",
+    "classification": [1, 2]
+  },
+  {
+    "query": "What's the weather forecast for the next 3 days in Miami?",
+    "classification": [2, 1]
+  },
+  {
+    "query": "Calculate the power of 3 raised to 4.",
+    "classification": [0, 4]
+  },
+  {
+    "query": "Check the air quality at 34.0522, -118.2437.",
+    "classification": [2, 2]
+  },
+  {
+    "query": "Update the note 'Meeting Notes' with today's discussion points.",
+    "classification": [1, 4]
+  },
+  {
+    "query": "Notify the team about the changes in the project plan.",
+    "classification": [5, 0]
+  },
+  {
+    "query": "Show all appointments for the next week in my calendar.",
+    "classification": [6, 3]
+  },
+  {
+    "query": "Delete the note named 'Old Projects' permanently.",
+    "classification": [1, 3]
+  },
+  {
+    "query": "Find the factorial of 8 for my assignment.",
+    "classification": [0, 7]
+  },
+  {
+    "query": "Send the email draft to the support team regarding the issue.",
+    "classification": [4, 1]
+  },
+  {
+    "query": "Show me the last 6 emails from my service provider.",
+    "classification": [4, 2]
+  },
+  { "query": "Add 12345 and 65432.", "classification": [0, 0] },
+  {
+    "query": "Create a note for the upcoming webinar.",
+    "classification": [1, 0]
+  },
+  {
+    "query": "What's the weather forecast for the next 7 days in San Diego?",
+    "classification": [2, 1]
+  },
+  { "query": "Translate this text into German.", "classification": [3, 0] },
+  {
+    "query": "Draft an email to the development team but don't send it yet.",
+    "classification": [4, 0]
+  },
+  {
+    "query": "Show me the unread notifications from this afternoon.",
+    "classification": [5, 1]
+  },
+  {
+    "query": "Add the new project deadline to my calendar for next Friday.",
+    "classification": [6, 0]
+  },
+  { "query": "What is 345 times 678?", "classification": [0, 2] },
+  {
+    "query": "Remove the lunch meeting from my calendar for next Thursday.",
+    "classification": [6, 1]
+  },
+  {
+    "query": "Fetch the note titled 'Daily Reminders'.",
+    "classification": [1, 2]
+  },
+  {
+    "query": "What's the weather forecast for the next 10 days in New York?",
+    "classification": [2, 1]
+  },
+  {
+    "query": "Calculate the power of 5 raised to 3.",
+    "classification": [0, 4]
+  },
+  {
+    "query": "Check the air quality at 37.7749, -122.4194.",
+    "classification": [2, 2]
+  },
+  {
+    "query": "Create a note for the new client details.",
+    "classification": [1, 0]
+  },
+  {
+    "query": "What is the weather forecast for the next week in Houston?",
+    "classification": [2, 1]
+  },
+  { "query": "Translate this text into Spanish.", "classification": [3, 0] },
+  {
+    "query": "Draft an email to the finance team but don't send it yet.",
+    "classification": [4, 0]
+  },
+  {
+    "query": "Show me the unread notifications from yesterday evening.",
+    "classification": [5, 1]
+  },
+  {
+    "query": "Add the budget meeting to my calendar for next Monday.",
+    "classification": [6, 0]
+  },
+  { "query": "What is 456 multiplied by 789?", "classification": [0, 2] },
+  {
+    "query": "Remove the project update meeting from my calendar for next Friday.",
+    "classification": [6, 1]
+  },
+  { "query": "Fetch the note titled 'Sales Data'.", "classification": [1, 2] },
+  {
+    "query": "What's the weather forecast for the next 3 days in Chicago?",
+    "classification": [2, 1]
+  },
+  { "query": "Calculate the power of 3 raised to 5.", "classification": [0, 4] }
+]
