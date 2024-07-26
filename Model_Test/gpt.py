@@ -37,7 +37,7 @@ for item in test_data:
 
     # Perform inference
     response = openai.ChatCompletion.create(
-        model="gpt-4o-mini", # Chose your model, I chose gpt-4o-mini, gpt-3.5-turbo for testing
+        model="gpt-4o-mini", # Chose your model, I chose gpt-4o-mini, gpt-4-turbo, gpt-4, gpt-3.5-turbo for testing.
         messages=[{"role": "user", "content": input_text}],
         max_tokens=10
     )
